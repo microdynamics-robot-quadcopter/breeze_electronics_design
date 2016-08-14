@@ -1,4 +1,4 @@
-update=Sun 14 Aug 2016 08:18:13 PM CST
+update=Sun 14 Aug 2016 09:51:05 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=stm32
+LibName31=Libraries/Component/breeze_electronics_design
