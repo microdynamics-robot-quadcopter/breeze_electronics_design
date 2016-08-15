@@ -9,8 +9,27 @@ D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
+$CMP LED
+D Led
+$ENDCMP
+#
+$CMP Mosfet
+D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/BS/BS170.pdf
+$ENDCMP
+#
 $CMP Resistor
 D Resistor
+$ENDCMP
+#
+$CMP SchottkyDiode
+D Diode Schottky
+$ENDCMP
+#
+$CMP Triode
+D Transistor NPN (general)
+K npn transistor
 $ENDCMP
 #
 #End Doc Library
