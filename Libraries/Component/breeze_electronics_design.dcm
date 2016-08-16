@@ -1,7 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3V7
+K POWER, PWR
+$ENDCMP
+#
 $CMP Capacitance
 D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CapacitancePolar
+D Polarised capacitor
 $ENDCMP
 #
 $CMP Crystal
@@ -9,7 +17,7 @@ D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
-$CMP LED
+$CMP Led
 D Led
 $ENDCMP
 #

@@ -1,4 +1,4 @@
-update=Mon 15 Aug 2016 01:47:57 PM CST
+update=Tue 16 Aug 2016 05:11:55 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=valves
 LibName30=stm32
 LibName31=Libraries/Component/breeze_electronics_design
 LibName32=sensors
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
