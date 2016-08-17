@@ -40,11 +40,11 @@ D Debug interface
 $ENDCMP
 #
 $CMP SchottkyDiode
-D Diode Schottky
+D Schottky Diode
 $ENDCMP
 #
 $CMP Triode
-D Transistor NPN (general)
+D Transistor NPN
 K npn transistor
 $ENDCMP
 #

@@ -587,7 +587,7 @@ ENDDEF
 DEF SchottkyDiode D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "SchottkyDiode" -250 -100 50 H V L CNN
-F2 "" 0 0 50 V V C CNN
+F2 "SOD-123" 0 -175 50 H V C CNN
 F3 "" 0 0 50 V V C CNN
 $FPLIST
  Diode_*
@@ -609,9 +609,9 @@ ENDDEF
 # Triode
 #
 DEF Triode Q 0 0 Y N 1 F N
-F0 "Q" 300 50 50 H V R CNN
+F0 "Q" 260 20 50 H V R CNN
 F1 "Triode" 400 -50 50 H V R CNN
-F2 "" 200 100 50 H V C CNN
+F2 "S0T23_132" 375 -125 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
 C 50 0 111 0 1 10 N
