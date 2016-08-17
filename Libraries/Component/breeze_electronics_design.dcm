@@ -4,6 +4,10 @@ $CMP +3V7
 K POWER, PWR
 $ENDCMP
 #
+$CMP Antenna
+D Antenna
+$ENDCMP
+#
 $CMP Capacitance
 D Unpolarized capacitor
 $ENDCMP
@@ -19,6 +23,14 @@ $ENDCMP
 #
 $CMP CrystalSMD
 D Three pin crystal
+$ENDCMP
+#
+$CMP HM-06-BT
+D Bluetooth
+$ENDCMP
+#
+$CMP Inductor
+D Inductor
 $ENDCMP
 #
 $CMP Led
@@ -46,6 +58,10 @@ $ENDCMP
 $CMP Triode
 D Transistor NPN
 K npn transistor
+$ENDCMP
+#
+$CMP XTAL
+D Crystal
 $ENDCMP
 #
 #End Doc Library
