@@ -13,8 +13,12 @@ D Polarised capacitor
 $ENDCMP
 #
 $CMP Crystal
-D Two pin crystal
+D Three pin crystal
 K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP CrystalSMD
+D Three pin crystal
 $ENDCMP
 #
 $CMP Led
@@ -29,6 +33,10 @@ $ENDCMP
 #
 $CMP Resistor
 D Resistor
+$ENDCMP
+#
+$CMP SIP4
+D Debug interface
 $ENDCMP
 #
 $CMP SchottkyDiode
