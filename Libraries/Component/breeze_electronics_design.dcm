@@ -33,12 +33,24 @@ $CMP Inductor
 D Inductor
 $ENDCMP
 #
+$CMP LM27313
+D Boost converter
+$ENDCMP
+#
+$CMP LTC4054
+D Lithium battery charging module
+$ENDCMP
+#
 $CMP Led
 D Led
 $ENDCMP
 #
 $CMP MHC5883
 D Electronic compass
+$ENDCMP
+#
+$CMP MIC5205-3.3
+D Voltage regulator
 $ENDCMP
 #
 $CMP MPU6050
@@ -61,6 +73,10 @@ $ENDCMP
 #
 $CMP SIP4
 D Debug interface
+$ENDCMP
+#
+$CMP SW2X3
+D Switch
 $ENDCMP
 #
 $CMP SchottkyDiode
