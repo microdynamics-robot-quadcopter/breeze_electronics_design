@@ -37,6 +37,18 @@ $CMP Led
 D Led
 $ENDCMP
 #
+$CMP MHC5883
+D Electronic compass
+$ENDCMP
+#
+$CMP MPU6050
+D Three asis gyroscope and three asis accelerometer
+$ENDCMP
+#
+$CMP MS5611
+D Barometer
+$ENDCMP
+#
 $CMP Mosfet
 D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
