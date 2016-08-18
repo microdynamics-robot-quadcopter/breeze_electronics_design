@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP +3V7
+$CMP +5V
 K POWER, PWR
 $ENDCMP
 #
@@ -23,6 +23,10 @@ $ENDCMP
 #
 $CMP CrystalSMD
 D Three pin crystal
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
 $ENDCMP
 #
 $CMP HM-06-BT
@@ -67,6 +71,10 @@ K N-Channel MOSFET
 F http://www.fairchildsemi.com/ds/BS/BS170.pdf
 $ENDCMP
 #
+$CMP Motor
+D Motor
+$ENDCMP
+#
 $CMP Resistor
 D Resistor
 $ENDCMP
@@ -86,6 +94,26 @@ $ENDCMP
 $CMP Triode
 D Transistor NPN
 K npn transistor
+$ENDCMP
+#
+$CMP UGND
+D Ground
+K POWER, PWR
+$ENDCMP
+#
+$CMP VCC+3V3
+D Power +3.3V
+K POWER, PWR
+$ENDCMP
+#
+$CMP VCC+3V7
+D Power +3.7V
+K POWER, PWR
+$ENDCMP
+#
+$CMP VCC+5V
+D Power +5V
+K POWER, PWR
 $ENDCMP
 #
 $CMP XTAL
