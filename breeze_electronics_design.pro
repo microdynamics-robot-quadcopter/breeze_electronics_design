@@ -1,4 +1,4 @@
-update=Thu 18 Aug 2016 02:46:15 PM CST
+update=Thu 18 Aug 2016 07:16:29 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -70,4 +70,4 @@ SubpartFirstId=65
 NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
-LabSize=60
+LabSize=200
