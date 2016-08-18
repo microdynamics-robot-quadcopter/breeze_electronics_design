@@ -57,11 +57,11 @@ ENDDEF
 # Capacitance
 #
 DEF Capacitance C 0 10 N N 1 F N
-F0 "C" 75 75 50 H V L CNN
-F1 "Capacitance" 75 0 50 H V L CNN
-F2 "C0402" 200 -150 50 H V C CNN
+F0 "C" 75 100 50 H V L CNN
+F1 "Capacitance" 75 25 50 H V L CNN
+F2 "C0402" 200 -125 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
-F4 "10V" 150 -75 60 H V C CNN "Voltage"
+F4 "10V" 160 -50 60 H V C CNN "Voltage"
 $FPLIST
  C0402
 $ENDFPLIST
@@ -76,10 +76,11 @@ ENDDEF
 # CapacitancePolar
 #
 DEF CapacitancePolar C 0 10 N N 1 F N
-F0 "C" 10 70 50 H V L CNN
-F1 "CapacitancePolar" 0 -75 50 H V L CNN
-F2 "C1206" 125 -150 50 H V C CNN
-F3 "" 0 0 50 H V C CNN
+F0 "C" 75 100 50 H V L CNN
+F1 "CapacitancePolar" 75 25 50 H V L CNN
+F2 "C1206" 200 -125 50 H V C CNN
+F3 "" 10 70 50 H V C CNN
+F4 "16V" 160 -50 60 H V C CNN "Voltage"
 $FPLIST
  CP*
  Elko*
@@ -436,10 +437,11 @@ ENDDEF
 # Resistor
 #
 DEF Resistor R 0 10 N N 1 F N
-F0 "R" 30 20 50 H V L CNN
-F1 "Resistor" 30 -40 50 H V L CNN
-F2 "R0402" 150 -100 50 H V C CNN
+F0 "R" 50 100 50 H V L CNN
+F1 "Resistor" 50 25 50 H V L CNN
+F2 "R0402" 175 -125 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
+F4 "1%" 110 -50 60 H V C CNN "Accuracy"
 $FPLIST
  R0402*
 $ENDFPLIST
