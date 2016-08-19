@@ -16,17 +16,8 @@ $CMP CapacitancePolar
 D Polarised capacitor
 $ENDCMP
 #
-$CMP Crystal
-D Three pin crystal
-K Quartz, Resonator, Ceramic, Filter
-$ENDCMP
-#
 $CMP CrystalSMD
 D Three pin crystal
-$ENDCMP
-#
-$CMP GND
-K POWER, PWR
 $ENDCMP
 #
 $CMP HM-06-BT
