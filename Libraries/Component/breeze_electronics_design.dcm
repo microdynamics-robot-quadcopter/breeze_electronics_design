@@ -24,6 +24,10 @@ $CMP HM-06-BT
 D Bluetooth
 $ENDCMP
 #
+$CMP HMC5883
+D Electronic compass
+$ENDCMP
+#
 $CMP Inductor
 D Inductor
 $ENDCMP
