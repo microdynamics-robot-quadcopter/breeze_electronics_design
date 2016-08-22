@@ -21,14 +21,16 @@ $ENDCMP
 #
 $CMP Capacitance
 D Unpolarized capacitor
+K Unpolarized capacitor
 $ENDCMP
 #
 $CMP CapacitancePolar
 D Polarised capacitor
 $ENDCMP
 #
-$CMP CrystalSMD
-D Three pin crystal
+$CMP CrystalResonator
+D Crystal resonator, Three pins
+K Crystal resonator, Three pins
 $ENDCMP
 #
 $CMP GND
@@ -88,10 +90,17 @@ $ENDCMP
 #
 $CMP Resistor
 D Resistor
+K Resistor
 $ENDCMP
 #
 $CMP SIP4
-D Debug interface
+D Pin header 4, Debug interface
+K Pin header 4
+$ENDCMP
+#
+$CMP STM32F103T8U6TR
+D MCU
+K MCU
 $ENDCMP
 #
 $CMP SW2X3
@@ -105,16 +114,6 @@ $ENDCMP
 $CMP Triode
 D Transistor NPN
 K npn transistor
-$ENDCMP
-#
-$CMP UGND
-D Ground
-K POWER, PWR
-$ENDCMP
-#
-$CMP VCC+5V
-D Power +5V
-K POWER, PWR
 $ENDCMP
 #
 $CMP XTAL
