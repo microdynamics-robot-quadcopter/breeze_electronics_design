@@ -50,16 +50,17 @@ $CMP Inductor
 D Inductor
 $ENDCMP
 #
+$CMP LED
+D LED
+K LED
+$ENDCMP
+#
 $CMP LM27313
 D Boost converter
 $ENDCMP
 #
 $CMP LTC4054
 D Lithium battery charging module
-$ENDCMP
-#
-$CMP Led
-D Led
 $ENDCMP
 #
 $CMP MHC5883
