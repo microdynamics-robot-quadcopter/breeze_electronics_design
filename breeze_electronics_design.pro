@@ -1,4 +1,4 @@
-update=Sun 21 Aug 2016 03:37:10 PM CST
+update=Mon 22 Aug 2016 04:11:35 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -39,7 +39,7 @@ LabSize=200
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=breeze_electronics_design-rescue
+LibName1=Libraries/Component/breeze_electronics_design
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -61,14 +61,13 @@ LibName19=intel
 LibName20=audio
 LibName21=interface
 LibName22=digital-audio
-LibName23=philips
-LibName24=display
-LibName25=cypress
-LibName26=siliconi
+LibName23=siliconi
+LibName24=philips
+LibName25=display
+LibName26=cypress
 LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=stm32
-LibName32=Libraries/Component/breeze_electronics_design
-LibName33=sensors
+LibName32=sensors

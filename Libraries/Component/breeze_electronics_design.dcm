@@ -1,6 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3V3
+D Power +3.3V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V7
+D Power +3.7V
+K POWER, PWR
+$ENDCMP
+#
 $CMP +5V
+D Power +5V
 K POWER, PWR
 $ENDCMP
 #
@@ -18,6 +29,11 @@ $ENDCMP
 #
 $CMP CrystalSMD
 D Three pin crystal
+$ENDCMP
+#
+$CMP GND
+D Ground
+K POWER, PWR
 $ENDCMP
 #
 $CMP HM-06-BT
@@ -93,16 +109,6 @@ $ENDCMP
 #
 $CMP UGND
 D Ground
-K POWER, PWR
-$ENDCMP
-#
-$CMP VCC+3V3
-D Power +3.3V
-K POWER, PWR
-$ENDCMP
-#
-$CMP VCC+3V7
-D Power +3.7V
 K POWER, PWR
 $ENDCMP
 #
