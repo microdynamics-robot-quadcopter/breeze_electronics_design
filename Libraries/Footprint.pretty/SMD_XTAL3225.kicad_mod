@@ -1,6 +1,6 @@
 (module SMD_XTAL3225 (layer F.Cu) (tedit 57B9554F)
   (descr "Crystal resonator, 16Mhz")
-  (tags "Crystal resonator")
+  (tags "Crystal resonator, 16Mhz")
   (fp_text reference REF** (at 0.508 -2.286) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
