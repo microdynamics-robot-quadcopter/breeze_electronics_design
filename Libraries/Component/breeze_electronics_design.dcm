@@ -32,6 +32,7 @@ $ENDCMP
 #
 $CMP CapacitancePolar
 D Polarised capacitor
+K Polarised capacitor
 $ENDCMP
 #
 $CMP CrystalOscillator
@@ -58,6 +59,11 @@ D Bluetooth HM-06 or HM-11
 K Bluetooth HM-06 or HM-11
 $ENDCMP
 #
+$CMP Header
+D Pin header, Two pins
+K Pin header, Two pins
+$ENDCMP
+#
 $CMP Inductor
 D Inductor
 K Inductor
@@ -70,10 +76,12 @@ $ENDCMP
 #
 $CMP LM27313
 D Boost converter
+K Boost converter
 $ENDCMP
 #
 $CMP LTC4054
 D Lithium battery charging module
+K Lithium battery charging module
 $ENDCMP
 #
 $CMP MHC5883
@@ -82,6 +90,7 @@ $ENDCMP
 #
 $CMP MIC5205-3.3
 D Voltage regulator
+K Voltage regulator
 $ENDCMP
 #
 $CMP MPU6050
@@ -128,7 +137,8 @@ K MCU
 $ENDCMP
 #
 $CMP SW2X3
-D Switch
+D Toggle switch,  Two Positions, Six pins
+K Toggle switch,  Two Positions, Six pins
 $ENDCMP
 #
 $CMP SchottkyDiode
