@@ -50,8 +50,9 @@ D Ground
 K POWER, PWR
 $ENDCMP
 #
-$CMP HMC5883
-D Electronic compass
+$CMP HMC5883L
+D Three-axis digital compass
+K Three-axis digital compass
 $ENDCMP
 #
 $CMP HM_Bluetooth
@@ -84,21 +85,19 @@ D Lithium battery charging module
 K Lithium battery charging module
 $ENDCMP
 #
-$CMP MHC5883
-D Electronic compass
-$ENDCMP
-#
 $CMP MIC5205-3.3
 D Voltage regulator
 K Voltage regulator
 $ENDCMP
 #
 $CMP MPU6050
-D Three asis gyroscope and three asis accelerometer
+D Six-axis motion tracking device
+K Six-axis motion tracking device
 $ENDCMP
 #
 $CMP MS5611
-D Barometer
+D Altimeter sensor
+K Altimeter sensor
 $ENDCMP
 #
 $CMP MicroUSB
