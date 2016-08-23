@@ -17,6 +17,7 @@ $ENDCMP
 #
 $CMP Antenna
 D Antenna
+K Antenna
 $ENDCMP
 #
 $CMP Capacitance
@@ -26,6 +27,11 @@ $ENDCMP
 #
 $CMP CapacitancePolar
 D Polarised capacitor
+$ENDCMP
+#
+$CMP CrystalOscillator
+D Crystal oscillator
+K Crystal oscillator
 $ENDCMP
 #
 $CMP CrystalResonator
@@ -38,16 +44,18 @@ D Ground
 K POWER, PWR
 $ENDCMP
 #
-$CMP HM-06-BT
-D Bluetooth
-$ENDCMP
-#
 $CMP HMC5883
 D Electronic compass
 $ENDCMP
 #
+$CMP HM_Bluetooth
+D Bluetooth HM-06 or HM-11
+K Bluetooth HM-06 or HM-11
+$ENDCMP
+#
 $CMP Inductor
 D Inductor
+K Inductor
 $ENDCMP
 #
 $CMP LED
@@ -89,6 +97,11 @@ $CMP Motor
 D Motor
 $ENDCMP
 #
+$CMP NRF24L01
+D Radio transceiver chip
+K Radio transceiver chip
+$ENDCMP
+#
 $CMP Resistor
 D Resistor
 K Resistor
@@ -115,10 +128,6 @@ $ENDCMP
 $CMP Triode
 D Transistor NPN
 K npn transistor
-$ENDCMP
-#
-$CMP XTAL
-D Crystal
 $ENDCMP
 #
 #End Doc Library
