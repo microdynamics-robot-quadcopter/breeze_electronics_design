@@ -2,27 +2,27 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP +3V3
 D Power +3.3V
-K POWER, PWR
+K Power +3.3V
 $ENDCMP
 #
 $CMP +3V7
 D Power +3.7V
-K POWER, PWR
+K Power +3.7V
 $ENDCMP
 #
 $CMP +5V
 D Power +5V
-K POWER, PWR
+K Power +5V
 $ENDCMP
 #
 $CMP Antenna
-D Antenna
-K Antenna
+D Multilayer chip antenna
+K Multilayer chip antenna
 $ENDCMP
 #
 $CMP CP2102
-D USB-to-UART Bridge Controller
-K USB-to-UART Bridge Controller
+D USB-to-UART bridge controller
+K USB-to-UART bridge controller
 $ENDCMP
 #
 $CMP Capacitance
@@ -47,7 +47,7 @@ $ENDCMP
 #
 $CMP GND
 D Ground
-K POWER, PWR
+K Ground
 $ENDCMP
 #
 $CMP HMC5883L
@@ -126,8 +126,8 @@ K Resistor
 $ENDCMP
 #
 $CMP SIP4
-D Pin header 4, Debug interface
-K Pin header 4
+D Pin header, Four pins
+K Pin header, Four pins
 $ENDCMP
 #
 $CMP STM32F103T8U6TR
@@ -136,8 +136,8 @@ K MCU
 $ENDCMP
 #
 $CMP SW2X3
-D Toggle switch,  Two Positions, Six pins
-K Toggle switch,  Two Positions, Six pins
+D Toggle switch, Two Positions, Six pins
+K Toggle switch, Two Positions, Six pins
 $ENDCMP
 #
 $CMP SchottkyDiode
