@@ -20,6 +20,11 @@ D Antenna
 K Antenna
 $ENDCMP
 #
+$CMP CP2102
+D USB-to-UART Bridge Controller
+K USB-to-UART Bridge Controller
+$ENDCMP
+#
 $CMP Capacitance
 D Unpolarized capacitor
 K Unpolarized capacitor
@@ -87,6 +92,11 @@ $CMP MS5611
 D Barometer
 $ENDCMP
 #
+$CMP MicroUSB
+D Micro USB B
+K Micro USB B
+$ENDCMP
+#
 $CMP Mosfet
 D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
@@ -122,12 +132,13 @@ D Switch
 $ENDCMP
 #
 $CMP SchottkyDiode
-D Schottky Diode
+D Schottky diode
+K Schottky diode
 $ENDCMP
 #
 $CMP Triode
-D Transistor NPN
-K npn transistor
+D NPN Transistor
+K NPN Transistor
 $ENDCMP
 #
 #End Doc Library
