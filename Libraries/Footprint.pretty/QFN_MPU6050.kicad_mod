@@ -1,6 +1,6 @@
 (module QFN_MPU6050 (layer F.Cu) (tedit 57BA9D23)
-  (descr "Six-axis MotionTracking device")
-  (tags "Six-axis MotionTracking device")
+  (descr "Six-axis motion tracking device")
+  (tags "Six-axis motion tracking device")
   (fp_text reference REF** (at 0.508 -3.302) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

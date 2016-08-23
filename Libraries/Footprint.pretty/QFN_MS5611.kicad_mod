@@ -1,6 +1,6 @@
 (module QFN_MS5611 (layer F.Cu) (tedit 57BA5977)
-  (descr "High resolution altimeter sensors")
-  (tags "High resolution altimeter sensors")
+  (descr "Altimeter sensor")
+  (tags "Altimeter sensor")
   (fp_text reference REF** (at 0.508 -3.048) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

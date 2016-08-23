@@ -1,6 +1,6 @@
 (module QFN_CP2102 (layer F.Cu) (tedit 57B950A0)
-  (descr "USB-to-UART Bridge Controller")
-  (tags "USB-to-UART Bridge Controller")
+  (descr "USB-to-UART bridge controller")
+  (tags "USB-to-UART bridge controller")
   (fp_text reference REF** (at 0.254 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

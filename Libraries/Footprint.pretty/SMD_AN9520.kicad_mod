@@ -1,6 +1,6 @@
 (module SMD_AN9520 (layer F.Cu) (tedit 57B92BD4)
-  (descr "Multilayer Chip Antenna")
-  (tags "Multilayer Chip Antenna")
+  (descr "Multilayer chip antenna")
+  (tags "Multilayer chip antenna")
   (fp_text reference REF** (at 0.762 -6.604) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

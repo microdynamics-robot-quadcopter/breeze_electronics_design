@@ -1,6 +1,6 @@
 (module DIP_SW2x3 (layer F.Cu) (tedit 57BA6E20)
-  (descr "Snap Switch, Two positions, Six pins")
-  (tags "Snap Switch, Two positions, Six pins")
+  (descr "Toggle switch, Two positions, Six pins")
+  (tags "Toggle switch, Two positions, Six pins")
   (fp_text reference REF** (at 0.508 -5.334) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
