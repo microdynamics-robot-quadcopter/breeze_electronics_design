@@ -331,9 +331,9 @@ F 3 "" H 14000 8050 50  0000 C CNN
 	1    14000 8050
 	1    0    0    -1  
 $EndComp
-Text Notes 14700 9750 0    200  ~ 40
+Text Notes 10450 10950 0    200  ~ 40
 Sensors
-Text Notes 10600 10950 0    200  ~ 40
+Text Notes 14900 9700 0    200  ~ 40
 Motors
 Text Notes 4850 10950 0    200  ~ 40
 Power
