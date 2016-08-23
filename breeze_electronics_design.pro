@@ -1,4 +1,4 @@
-update=Mon 22 Aug 2016 04:11:35 PM CST
+update=Tue 23 Aug 2016 04:26:03 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=200
 [eeschema]
 version=1
 LibDir=
@@ -71,3 +61,13 @@ LibName29=contrib
 LibName30=valves
 LibName31=stm32
 LibName32=sensors
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=200
