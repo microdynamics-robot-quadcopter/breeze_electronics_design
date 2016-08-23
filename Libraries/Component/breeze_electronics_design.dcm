@@ -106,13 +106,13 @@ K Micro USB B
 $ENDCMP
 #
 $CMP Mosfet
-D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
+D N-Channel MOSFET
 K N-Channel MOSFET
-F http://www.fairchildsemi.com/ds/BS/BS170.pdf
 $ENDCMP
 #
 $CMP Motor
 D Motor
+K Motor
 $ENDCMP
 #
 $CMP NRF24L01
