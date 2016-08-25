@@ -3,12 +3,12 @@
   (general
     (links 164)
     (no_connects 164)
-    (area -11.742001 -111.742001 100.075001 11.742001)
+    (area -19.575001 -119.575001 119.575001 19.575001)
     (thickness 1.6)
-    (drawings 13)
+    (drawings 25)
     (tracks 0)
     (zones 0)
-    (modules 100)
+    (modules 104)
     (nets 199)
   )
 
@@ -506,7 +506,7 @@
   )
 
   (module Footprint:SMD_AN9520 (layer F.Cu) (tedit 57B92BD4) (tstamp 57BD8799)
-    (at 191.501381 107.119)
+    (at 197.681382 24.513999)
     (descr "Multilayer chip antenna")
     (tags "Multilayer chip antenna")
     (path /57CB883F)
@@ -532,7 +532,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87A5)
-    (at 247.527857 119.315)
+    (at 253.707858 36.709999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BE1E57)
@@ -561,7 +561,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87B1)
-    (at 238.387857 143.765)
+    (at 244.567858 61.159999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BE3D4E)
@@ -590,7 +590,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87BD)
-    (at 266.497857 102.215)
+    (at 272.677858 19.609999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C0957D)
@@ -619,7 +619,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87C9)
-    (at 262.997857 118.715)
+    (at 269.177858 36.109999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BE2207)
@@ -648,7 +648,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87D5)
-    (at 244.677857 135.815)
+    (at 250.857858 53.209999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C195FB)
@@ -677,7 +677,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87E1)
-    (at 257.187857 124.415)
+    (at 263.367858 41.809999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C0A0F6)
@@ -706,7 +706,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87ED)
-    (at 249.507857 130.315)
+    (at 255.687858 47.709999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BE7001)
@@ -735,7 +735,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD87F9)
-    (at 232.377857 147.065)
+    (at 238.557858 64.459999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C19879)
@@ -764,7 +764,7 @@
   )
 
   (module Capacitors_SMD:C_1206 (layer F.Cu) (tedit 5415D7BD) (tstamp 57BD8805)
-    (at 235.685001 111.915)
+    (at 241.865002 29.309999)
     (descr "Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 1206")
     (path /57C0B7E3)
@@ -793,7 +793,7 @@
   )
 
   (module Capacitors_SMD:C_1206 (layer F.Cu) (tedit 5415D7BD) (tstamp 57BD8811)
-    (at 196.995001 115.835)
+    (at 203.175002 33.229999)
     (descr "Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 1206")
     (path /57C068FB)
@@ -822,7 +822,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD881D)
-    (at 244.677857 130.315)
+    (at 250.857858 47.709999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C0EF67)
@@ -851,7 +851,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8829)
-    (at 233.457857 136.065)
+    (at 239.637858 53.459999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C1C492)
@@ -880,7 +880,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8835)
-    (at 263.212143 113.215)
+    (at 269.392144 30.609999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C12DBA)
@@ -909,7 +909,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8841)
-    (at 251.917857 124.815)
+    (at 258.097858 42.209999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C0F445)
@@ -938,7 +938,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD884D)
-    (at 257.617857 118.915)
+    (at 263.797858 36.309999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C1C712)
@@ -967,7 +967,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8859)
-    (at 227.547857 146.715)
+    (at 233.727858 64.109999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C34382)
@@ -996,7 +996,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8865)
-    (at 233.315952 141.565)
+    (at 239.495953 58.959999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C2553A)
@@ -1025,7 +1025,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8871)
-    (at 247.087857 124.815)
+    (at 253.267858 42.209999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C329B8)
@@ -1054,7 +1054,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD887D)
-    (at 252.357857 119.315)
+    (at 258.537858 36.709999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C27C21)
@@ -1083,7 +1083,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8889)
-    (at 239.847857 132.765)
+    (at 246.027858 50.159999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C30E10)
@@ -1112,7 +1112,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8895)
-    (at 262.947857 107.715)
+    (at 269.127858 25.109999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C31090)
@@ -1141,7 +1141,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88A1)
-    (at 258.167857 113.415)
+    (at 264.347858 30.809999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C30755)
@@ -1170,7 +1170,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88AD)
-    (at 222.717857 146.715)
+    (at 228.897858 64.109999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C2A371)
@@ -1199,7 +1199,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88B9)
-    (at 228.247857 141.165)
+    (at 234.427858 58.559999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57C2A5F3)
@@ -1228,7 +1228,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88C5)
-    (at 238.387857 138.265)
+    (at 244.567858 55.659999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BC16B3)
@@ -1257,7 +1257,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88D1)
-    (at 253.045952 113.615)
+    (at 259.225953 31.009999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BD71DB)
@@ -1286,7 +1286,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88DD)
-    (at 239.847857 127.265)
+    (at 246.027858 44.659999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BD1089)
@@ -1315,7 +1315,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88E9)
-    (at 223.444047 141.215)
+    (at 229.624048 58.609999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BD0417)
@@ -1344,7 +1344,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD88F5)
-    (at 235.275952 130.365)
+    (at 241.455953 47.759999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BD93E2)
@@ -1373,7 +1373,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8901)
-    (at 258.144047 107.915)
+    (at 264.324048 25.309999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BC83FD)
@@ -1402,7 +1402,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD890D)
-    (at 242.947381 121.565)
+    (at 249.127382 38.959999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BC77A4)
@@ -1431,7 +1431,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8919)
-    (at 217.887857 145.415)
+    (at 224.067858 62.809999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BD4303)
@@ -1460,7 +1460,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 5415D599) (tstamp 57BD8925)
-    (at 261.667857 102.215)
+    (at 267.847858 19.609999)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /57BD4717)
@@ -1489,7 +1489,7 @@
   )
 
   (module Diodes_SMD:SOD-123 (layer F.Cu) (tedit 5530FCB9) (tstamp 57BD8937)
-    (at 213.43119 128.715)
+    (at 219.611191 46.109999)
     (descr SOD-123)
     (tags SOD-123)
     (path /57BE9B08)
@@ -1519,7 +1519,7 @@
   )
 
   (module Diodes_SMD:SOD-123 (layer F.Cu) (tedit 5530FCB9) (tstamp 57BD8949)
-    (at 229.41119 111.615)
+    (at 235.591191 29.009999)
     (descr SOD-123)
     (tags SOD-123)
     (path /57C0D891)
@@ -1549,7 +1549,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x02 (layer F.Cu) (tedit 54EA090C) (tstamp 57BD895A)
-    (at 214.220238 105.615)
+    (at 220.400239 23.009999)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /57BFFF1B)
@@ -1582,7 +1582,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x04 (layer F.Cu) (tedit 0) (tstamp 57BD896D)
-    (at 175.225001 129.555)
+    (at 181.405002 46.949999)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /57BF7227)
@@ -1619,7 +1619,7 @@
   )
 
   (module Footprint:SMD_L0402 (layer F.Cu) (tedit 57B936B1) (tstamp 57BD8979)
-    (at 214.279095 150.939)
+    (at 220.459096 68.333999)
     (descr "Inductor 0402")
     (tags "Inductor 0402")
     (path /57C0CBF2)
@@ -1648,7 +1648,7 @@
   )
 
   (module Footprint:SMD_L0402 (layer F.Cu) (tedit 57B936B1) (tstamp 57BD8985)
-    (at 254.179095 130.139)
+    (at 260.359096 47.533999)
     (descr "Inductor 0402")
     (tags "Inductor 0402")
     (path /57BCD052)
@@ -1677,7 +1677,7 @@
   )
 
   (module Footprint:SMD_L0402 (layer F.Cu) (tedit 57B936B1) (tstamp 57BD8991)
-    (at 249.349095 135.639)
+    (at 255.529096 53.033999)
     (descr "Inductor 0402")
     (tags "Inductor 0402")
     (path /57BCE386)
@@ -1706,7 +1706,7 @@
   )
 
   (module Footprint:SMD_L0402 (layer F.Cu) (tedit 57B936B1) (tstamp 57BD899D)
-    (at 243.059095 141.139)
+    (at 249.239096 58.533999)
     (descr "Inductor 0402")
     (tags "Inductor 0402")
     (path /57BCB57C)
@@ -1735,7 +1735,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89A3)
-    (at 228.222619 135.865)
+    (at 234.40262 53.259999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BD2124)
@@ -1777,7 +1777,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89A9)
-    (at 197.286429 128.215)
+    (at 203.46643 45.609999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BC7AD8)
@@ -1819,7 +1819,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89AF)
-    (at 187.596429 133.315)
+    (at 193.77643 50.709999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BC9914)
@@ -1861,7 +1861,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89B5)
-    (at 197.286429 133.315)
+    (at 203.46643 50.709999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BC9A42)
@@ -1903,7 +1903,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89BB)
-    (at 192.596429 138.415)
+    (at 198.77643 55.809999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BC9C90)
@@ -1945,7 +1945,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89C1)
-    (at 208.106429 123.115)
+    (at 214.28643 40.509999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BC9DC4)
@@ -1987,7 +1987,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89C7)
-    (at 220.816429 112.765)
+    (at 226.99643 30.159999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BC9EFB)
@@ -2029,7 +2029,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89CD)
-    (at 187.596429 128.215)
+    (at 193.77643 45.609999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BCA2E3)
@@ -2071,7 +2071,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89D3)
-    (at 198.416429 123.115)
+    (at 204.59643 40.509999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BCA420)
@@ -2113,7 +2113,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89D9)
-    (at 215.614048 134.415)
+    (at 221.794049 51.809999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BD3068)
@@ -2155,7 +2155,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 55BDE255) (tstamp 57BD89DF)
-    (at 225.956905 117.865)
+    (at 232.136906 35.259999)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /57BD37BF)
@@ -2196,15 +2196,15 @@
     )
   )
 
-  (module Pin_Headers:Pin_Header_Straight_1x02 (layer F.Cu) (tedit 54EA090C) (tstamp 57BD89F0)
-    (at 190.795 120.915)
+  (module Pin_Headers:Pin_Header_Straight_1x02 (layer F.Cu) (tedit 57BED09C) (tstamp 57BD89F0)
+    (at 223.52 81.28 135)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /57C9107F)
-    (fp_text reference M1 (at 0 -5.1) (layer F.SilkS)
+    (fp_text reference M1 (at -0.449013 4.939141 135) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value MotorA (at 0 -3.1) (layer F.Fab)
+    (fp_text value MotorA (at 0 -3.1 135) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.27 1.27) (end 1.27 3.81) (layer F.SilkS) (width 0.15))
@@ -2218,9 +2218,9 @@
     (fp_line (start -1.55 -1.55) (end 1.55 -1.55) (layer F.SilkS) (width 0.15))
     (fp_line (start -1.27 1.27) (end -1.27 3.81) (layer F.SilkS) (width 0.15))
     (fp_line (start -1.27 3.81) (end 1.27 3.81) (layer F.SilkS) (width 0.15))
-    (pad 1 thru_hole rect (at 0 0) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
+    (pad 1 thru_hole rect (at 0 0 135) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
       (net 69 "Net-(M1-Pad1)"))
-    (pad 2 thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
+    (pad 2 thru_hole oval (at 0 2.54 135) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
       (net 70 "Net-(M1-Pad2)"))
     (model Pin_Headers.3dshapes/Pin_Header_Straight_1x02.wrl
       (at (xyz 0 -0.05 0))
@@ -2230,7 +2230,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x02 (layer F.Cu) (tedit 54EA090C) (tstamp 57BD8A01)
-    (at 202.816429 105.615)
+    (at 208.99643 23.009999)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /57C91C82)
@@ -2263,7 +2263,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x02 (layer F.Cu) (tedit 54EA090C) (tstamp 57BD8A12)
-    (at 179.975 129.555)
+    (at 186.155001 46.949999)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /57C917CD)
@@ -2296,7 +2296,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x02 (layer F.Cu) (tedit 54EA090C) (tstamp 57BD8A23)
-    (at 208.506429 105.615)
+    (at 214.68643 23.009999)
     (descr "Through hole pin header")
     (tags "pin header")
     (path /57C9214B)
@@ -2329,7 +2329,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 553634F8) (tstamp 57BD8A33)
-    (at 246.245952 102.765)
+    (at 252.425953 20.159999)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57BE1DBD)
@@ -2363,7 +2363,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 553634F8) (tstamp 57BD8A43)
-    (at 232.384047 118.565)
+    (at 238.564048 35.959999)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57C39446)
@@ -2397,7 +2397,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 553634F8) (tstamp 57BD8A53)
-    (at 205.684047 146.345)
+    (at 211.864048 63.739999)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57C3A4CD)
@@ -2431,7 +2431,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 553634F8) (tstamp 57BD8A63)
-    (at 225.664047 123.715)
+    (at 231.844048 41.109999)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57C39B5B)
@@ -2465,7 +2465,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 553634F8) (tstamp 57BD8A73)
-    (at 241.104047 109.765)
+    (at 247.284048 27.159999)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57C3AD77)
@@ -2499,7 +2499,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8A79)
-    (at 214.447381 139.815)
+    (at 220.627382 57.209999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BE3867)
@@ -2528,7 +2528,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8A7F)
-    (at 227.947381 130.465)
+    (at 234.127382 47.859999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C0766A)
@@ -2557,7 +2557,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8A85)
-    (at 243.387381 115.965)
+    (at 249.567382 33.359999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C08479)
@@ -2586,7 +2586,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8A8B)
-    (at 257.527381 102.315)
+    (at 263.707382 19.709999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C115BB)
@@ -2615,7 +2615,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8A91)
-    (at 213.747381 145.515)
+    (at 219.927382 62.909999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C13A8B)
@@ -2644,7 +2644,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8A97)
-    (at 218.611666 139.815)
+    (at 224.791667 57.209999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C04682)
@@ -2673,7 +2673,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8A9D)
-    (at 233.727381 124.765)
+    (at 239.907382 42.159999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BE046B)
@@ -2702,7 +2702,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AA3)
-    (at 236.52119 118.115)
+    (at 242.701191 35.509999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C32361)
@@ -2731,7 +2731,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AA9)
-    (at 250.603571 108.015)
+    (at 256.783572 25.409999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BC258B)
@@ -2760,7 +2760,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AAF)
-    (at 210.297381 144.465)
+    (at 216.477382 61.859999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BC3A1D)
@@ -2789,7 +2789,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AB5)
-    (at 254.077381 102.315)
+    (at 260.257382 19.709999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BC3D0A)
@@ -2818,7 +2818,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8ABB)
-    (at 224.497381 129.915)
+    (at 230.677382 47.309999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BC41E9)
@@ -2847,7 +2847,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AC1)
-    (at 250.627381 102.315)
+    (at 256.807382 19.709999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BD0458)
@@ -2876,7 +2876,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AC7)
-    (at 210.297381 150.165)
+    (at 216.477382 67.559999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C26CB1)
@@ -2905,7 +2905,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8ACD)
-    (at 230.277381 124.765)
+    (at 236.457382 42.159999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BD06D6)
@@ -2934,7 +2934,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AD3)
-    (at 220.227381 133.295)
+    (at 226.407382 50.689999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C2E136)
@@ -2963,7 +2963,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AD9)
-    (at 245.717381 108.965)
+    (at 251.897382 26.359999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BD0EE5)
@@ -2992,7 +2992,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8ADF)
-    (at 249.167381 113.715)
+    (at 255.347382 31.109999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C2E3B4)
@@ -3021,7 +3021,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AE5)
-    (at 239.937381 115.965)
+    (at 246.117382 33.359999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BC2EE9)
@@ -3050,7 +3050,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AEB)
-    (at 231.397381 130.465)
+    (at 237.577382 47.859999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C365C5)
@@ -3079,7 +3079,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AF1)
-    (at 254.027381 108.015)
+    (at 260.207382 25.409999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C379F1)
@@ -3108,7 +3108,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AF7)
-    (at 239.497381 121.665)
+    (at 245.677382 39.059999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C36E16)
@@ -3137,7 +3137,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 5415CBB8) (tstamp 57BD8AFD)
-    (at 223.677381 135.615)
+    (at 229.857382 53.009999)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C3830A)
@@ -3166,7 +3166,7 @@
   )
 
   (module Footprint:DIP_SW2x3 (layer F.Cu) (tedit 57BA6E20) (tstamp 57BD8B16)
-    (at 197.22119 105.849)
+    (at 203.401191 23.243999)
     (descr "Toggle switch, Two positions, Six pins")
     (tags "Toggle switch, Two positions, Six pins")
     (path /57C17AF4)
@@ -3206,7 +3206,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5 (layer F.Cu) (tedit 55360473) (tstamp 57BD8B28)
-    (at 222.438809 103.065)
+    (at 228.61881 20.459999)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /57C1B398)
@@ -3244,7 +3244,7 @@
   )
 
   (module Footprint:VFQFPN_STM32F103T8U6TR (layer F.Cu) (tedit 57BD391C) (tstamp 57BD8B62)
-    (at 180.501191 144.623)
+    (at 186.681192 62.017999)
     (descr "MCU STM32F103T8U6TR")
     (tags "MCU STM32F103T8U6TR")
     (path /57BB8CF5)
@@ -3347,7 +3347,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5 (layer F.Cu) (tedit 55360473) (tstamp 57BD8B74)
-    (at 240.012143 103.065)
+    (at 246.192144 20.459999)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /57C0C4D0)
@@ -3385,7 +3385,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5 (layer F.Cu) (tedit 55360473) (tstamp 57BD8B86)
-    (at 209.305476 138.215)
+    (at 215.485477 55.609999)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /57C1831F)
@@ -3423,7 +3423,7 @@
   )
 
   (module Footprint:QFN_CP2102 (layer F.Cu) (tedit 57BD3936) (tstamp 57BD8BB6)
-    (at 212.799762 115.075)
+    (at 218.979763 32.469999)
     (descr "USB-to-UART bridge controller")
     (tags "USB-to-UART bridge controller")
     (path /57BE3F4C)
@@ -3508,7 +3508,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5 (layer F.Cu) (tedit 55360473) (tstamp 57BD8BC8)
-    (at 199.359285 146.645)
+    (at 205.539286 64.039999)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /57C1BD74)
@@ -3546,7 +3546,7 @@
   )
 
   (module Footprint:LPCC_HMC5883L (layer F.Cu) (tedit 57BA8ACD) (tstamp 57BD8BEA)
-    (at 201.365762 139.455)
+    (at 207.545763 56.849999)
     (descr "Three-axis digital compass")
     (tags "Three-axis digital compass")
     (path /57C23CEE)
@@ -3605,7 +3605,7 @@
   )
 
   (module Footprint:QFN_MPU6050 (layer F.Cu) (tedit 57BA9D23) (tstamp 57BD8C14)
-    (at 205.905 130.017)
+    (at 212.085001 47.411999)
     (descr "Six-axis motion tracking device")
     (tags "Six-axis motion tracking device")
     (path /57C31D19)
@@ -3680,7 +3680,7 @@
   )
 
   (module Footprint:QFN_MS5611 (layer F.Cu) (tedit 57BA5977) (tstamp 57BD8C24)
-    (at 219.197381 119.413)
+    (at 225.377382 36.807999)
     (descr "Altimeter sensor")
     (tags "Altimeter sensor")
     (path /57C2D512)
@@ -3713,7 +3713,7 @@
   )
 
   (module Footprint:QFN_NRF24L01 (layer F.Cu) (tedit 57B95033) (tstamp 57BD8C4A)
-    (at 192.040905 145.317)
+    (at 198.220906 62.711999)
     (descr "Radio transceiver chip")
     (tags "Radio transceiver chip")
     (path /57C1EC78)
@@ -3780,7 +3780,7 @@
   )
 
   (module Footprint:SMD_HM (layer F.Cu) (tedit 57B96689) (tstamp 57BD8C68)
-    (at 180.383001 112.707)
+    (at 186.563002 30.101999)
     (descr "Bluetooth HM-06 or HM-11")
     (tags "Bluetooth HM-06 or HM-11")
     (path /57C20E9E)
@@ -3839,7 +3839,7 @@
   )
 
   (module Connect:USB_Micro-B (layer F.Cu) (tedit 5543E447) (tstamp 57BD8C7E)
-    (at 204.795001 114.715)
+    (at 210.975002 32.109999)
     (descr "Micro USB Type B Receptacle")
     (tags "USB USB_B USB_micro USB_OTG")
     (path /57BF8A10)
@@ -3876,7 +3876,7 @@
   )
 
   (module Footprint:SMD_XTAL3225 (layer F.Cu) (tedit 57B9554F) (tstamp 57BD8C8A)
-    (at 219.778809 127.101)
+    (at 225.95881 44.495999)
     (descr "Crystal resonator, 16Mhz")
     (tags "Crystal resonator, 16Mhz")
     (path /57C2012E)
@@ -3906,7 +3906,7 @@
   )
 
   (module Crystals:Resonator_7.2x3mm (layer F.Cu) (tedit 54F075B8) (tstamp 57BD8CA5)
-    (at 232.005001 104.015)
+    (at 238.185002 21.409999)
     (descr "Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, 0.5+0.3%; Farnell (Element 14) #1170435")
     (tags resonator)
     (path /57BB671E)
@@ -3945,18 +3945,82 @@
       (net 115 /OSC_OUT))
   )
 
-  (gr_arc (start 45 45) (end 50 40) (angle 180) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start -45 45) (end -40 50) (angle 180) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start 45 -45) (end 40 -50) (angle 180) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start -50 -50) (end 50 -50) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start -50 -50) (end -50 50) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start -45 -45) (end -50 -40) (angle 180) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start 69.5 0) (end 50 40) (angle 128) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 50 -50) (end 50 50) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start -69.5 0) (end -50 -40) (angle 128) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start 0 69.5) (end -40 50) (angle 128) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start -50 50) (end 50 50) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start 0 -69.5) (end 40 -50) (angle 128) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 50 -50) (end 0 -50) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (module Footprint:PTH_Motor (layer F.Cu) (tedit 57BEEC24) (tstamp 57BEFEC2)
+    (at 5.08 5.08)
+    (fp_text reference "" (at 4.75 4.75 90) (layer F.SilkS)
+      (effects (font (size 2 2) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 4.953) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 8 8) (drill 7) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module Footprint:PTH_Motor (layer F.Cu) (tedit 57BEEBB9) (tstamp 57BEFEDC)
+    (at 5.08 94.92)
+    (fp_text reference "" (at 6.02 -5.08) (layer F.SilkS)
+      (effects (font (size 2 2) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 4.953) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 8 8) (drill 7) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module Footprint:PTH_Motor (layer F.Cu) (tedit 57BEEBBF) (tstamp 57BEFEEF)
+    (at 94.92 94.92)
+    (fp_text reference "" (at -4.14 -5.41 90) (layer F.SilkS)
+      (effects (font (size 2 2) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 4.953) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 8 8) (drill 7) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (module Footprint:PTH_Motor (layer F.Cu) (tedit 57BEEC7D) (tstamp 57BEFF02)
+    (at 94.92 5.08)
+    (fp_text reference "" (at -5.08 4.75 90) (layer F.SilkS)
+      (effects (font (size 2 2) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 4.953) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 8 8) (drill 7) (layers *.Cu *.Mask F.SilkS))
+  )
+
+  (gr_line (start 19.4056 13.589) (end 13.589 19.4056) (angle 90) (layer F.SilkS) (width 1))
+  (gr_line (start 18.1356 12.3444) (end 12.3444 18.1356) (angle 90) (layer F.SilkS) (width 1))
+  (gr_line (start 80.5944 13.589) (end 86.411 19.4056) (angle 90) (layer F.SilkS) (width 1))
+  (gr_line (start 81.8644 12.3444) (end 87.6556 18.1356) (angle 90) (layer F.SilkS) (width 1))
+  (gr_line (start 86.3856 80.569) (end 80.5944 86.411) (angle 90) (layer F.SilkS) (width 1))
+  (gr_line (start 87.6556 81.8644) (end 81.8644 87.6556) (angle 90) (layer F.SilkS) (width 1))
+  (gr_line (start 13.589 80.5944) (end 19.4056 86.411) (angle 90) (layer F.SilkS) (width 1))
+  (gr_line (start 12.3444 81.8644) (end 18.1356 87.6556) (angle 90) (layer F.SilkS) (width 1))
+  (gr_text M2 (at 89.84 10.16 315) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.15)))
+  )
+  (gr_text M1 (at 10.16 10.16 45) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.15)))
+  )
+  (gr_text "M2\n" (at 10.16 89.84 135) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.15)))
+  )
+  (gr_text M3 (at 89.84 89.84 225) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.15)))
+  )
+  (gr_line (start 0 100) (end 100 100) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 100 0) (end 100 100) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 0 0) (end 0 100) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 0 0) (end 100 0) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 100 0) (end 50 0) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 95 95) (end 100 90) (angle 180) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 5 95) (end 10 100) (angle 180) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 95 5) (end 90 0) (angle 180) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 5 5) (end 0 10) (angle 180) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 119.5 50) (end 100 90) (angle 128) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start -19.5 50) (end 0 10) (angle 128) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 50 119.5) (end 10 100) (angle 128) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 50 -19.5) (end 90 0) (angle 128) (layer Edge.Cuts) (width 0.15))
 
 )
