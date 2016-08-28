@@ -1,7 +1,7 @@
-(module LOGO_Arrow (layer F.Cu) (tedit 57C13742)
+(module LOGO_Arrow (layer F.Cu) (tedit 57C243F3)
   (descr "Arrow logo")
   (tags "Arrow logo")
-  (fp_text reference REF** (at 0.635 -0.635) (layer F.SilkS) hide
+  (fp_text reference "" (at 0.635 -0.635) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value LOGO_Arrow (at 0 1.27) (layer F.Fab) hide
