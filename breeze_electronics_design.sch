@@ -52,16 +52,12 @@ Text Label 2250 1900 0    60   ~ 0
 OSC_OUT
 Text Label 2250 2000 0    60   ~ 0
 RST
-Text Label 2250 2100 0    60   ~ 0
-GND
 Text Label 2250 2300 0    60   ~ 0
 PWMA
 Text Label 2250 2400 0    60   ~ 0
 PWMB
 Text Label 2250 2500 0    60   ~ 0
 PWMC
-Text Label 3150 750  3    60   ~ 0
-GND
 Text Label 3250 750  3    60   ~ 0
 BOOT0
 Text Label 3350 750  3    60   ~ 0
@@ -348,12 +344,12 @@ $EndComp
 $Comp
 L GND #PWR06
 U 1 1 57BB9B45
-P 5150 1800
-F 0 "#PWR06" H 5150 1550 50  0001 C CNN
-F 1 "GND" H 5150 1650 50  0000 C CNN
-F 2 "" H 5150 1800 50  0000 C CNN
-F 3 "" H 5150 1800 50  0000 C CNN
-	1    5150 1800
+P 5050 1800
+F 0 "#PWR06" H 5050 1550 50  0001 C CNN
+F 1 "GND" H 5050 1650 50  0000 C CNN
+F 2 "" H 5050 1800 50  0000 C CNN
+F 3 "" H 5050 1800 50  0000 C CNN
+	1    5050 1800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3103,8 +3099,6 @@ Wire Wire Line
 Wire Wire Line
 	2250 2000 2650 2000
 Wire Wire Line
-	2250 2100 2650 2100
-Wire Wire Line
 	2250 2300 2650 2300
 Wire Wire Line
 	2250 2400 2650 2400
@@ -3115,8 +3109,6 @@ Wire Wire Line
 Wire Wire Line
 	2650 1700 2150 1700
 Connection ~ 2150 1700
-Wire Wire Line
-	3150 750  3150 1150
 Wire Wire Line
 	3250 750  3250 1150
 Wire Wire Line
@@ -3150,8 +3142,6 @@ Wire Wire Line
 Wire Wire Line
 	4450 1700 4950 1700
 Connection ~ 4950 1700
-Wire Wire Line
-	4450 1800 5150 1800
 Wire Wire Line
 	3150 2950 3150 3350
 Wire Wire Line
@@ -3273,4 +3263,32 @@ Wire Wire Line
 	8650 9550 8650 9600
 Wire Wire Line
 	1600 7200 1800 7200
+Wire Wire Line
+	5050 1800 4450 1800
+$Comp
+L GND #PWR?
+U 1 1 57C3CE3D
+P 2050 2100
+F 0 "#PWR?" H 2050 1850 50  0001 C CNN
+F 1 "GND" H 2050 1950 50  0000 C CNN
+F 2 "" H 2050 2100 50  0000 C CNN
+F 3 "" H 2050 2100 50  0000 C CNN
+	1    2050 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2050 2100 2650 2100
+$Comp
+L GND #PWR?
+U 1 1 57C3D8DA
+P 3150 800
+F 0 "#PWR?" H 3150 550 50  0001 C CNN
+F 1 "GND" H 3150 650 50  0000 C CNN
+F 2 "" H 3150 800 50  0000 C CNN
+F 3 "" H 3150 800 50  0000 C CNN
+	1    3150 800 
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3150 800  3150 1150
 $EndSCHEMATC
