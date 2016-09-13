@@ -1,9 +1,9 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.2+e4-6225~38~ubuntu14.04.1-stable)
 
   (general
-    (links 0)
+    (links 163)
     (no_connects 154)
-    (area -48.496 -119.575001 133.995 19.575001)
+    (area -19.575001 -119.575001 122.03062 19.575001)
     (thickness 1.6)
     (drawings 26)
     (tracks 49)
@@ -316,7 +316,7 @@
   )
 
   (net_class Signal ""
-    (clearance 0.2)
+    (clearance 0.15)
     (trace_width 0.25)
     (via_dia 0.6)
     (via_drill 0.4)
@@ -518,6 +518,30 @@
     (add_net "Net-(X1-Pad2)")
     (add_net "Net-(X1-Pad4)")
     (add_net "Net-(Y1-Pad2)")
+  )
+
+  (module LOGO_Project (layer F.Cu) (tedit 57C7CA2B) (tstamp 57C7CC15)
+    (at 115.57 -31.242)
+    (descr "Project logo")
+    (tags "Project logo")
+    (fp_text reference REF** (at 0.762 -1.524) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value LOGO_Project (at 0 0) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 1.27 1.27) (end 1.27 0.508) (layer F.SilkS) (width 0.15))
+    (fp_circle (center -1.27 1.27) (end -1.27 0.508) (layer F.SilkS) (width 0.15))
+    (fp_circle (center 1.27 -1.27) (end 1.27 -0.508) (layer F.SilkS) (width 0.15))
+    (fp_circle (center -1.27 -1.27) (end -1.27 -0.508) (layer F.SilkS) (width 0.15))
+    (fp_line (start 1.27 -1.27) (end -1.27 1.27) (layer F.SilkS) (width 0.15))
+    (fp_line (start -1.27 -1.27) (end 1.27 1.27) (layer F.SilkS) (width 0.15))
+    (fp_text user "Team MicroDynamics" (at 0.254 3.556) (layer F.SilkS)
+      (effects (font (size 0.6 0.6) (thickness 0.15)))
+    )
+    (fp_text user "Breeze Quadcopter" (at 0.254 2.54) (layer F.SilkS)
+      (effects (font (size 0.6 0.6) (thickness 0.15)))
+    )
   )
 
   (module Footprint:QFN_CP2102 (layer B.Cu) (tedit 57C6CA27) (tstamp 57BD8BB6)
@@ -2975,7 +2999,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 57C02DEC) (tstamp 57BD8AC7)
-    (at 33.528 -67.056)
+    (at 27.94 -65.786)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57C26CB1)
@@ -3004,7 +3028,7 @@
   )
 
   (module Resistors_SMD:R_0402 (layer F.Cu) (tedit 57C422E7) (tstamp 57BD8ACD)
-    (at 33.528 -49.53 180)
+    (at 34.036 -49.53 180)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /57BD06D6)
@@ -4381,30 +4405,6 @@
       (net 103 /BT_LED))
     (pad 16 smd rect (at 6.423 -3.822 90) (size 1.2 1) (layers F.Cu F.Paste F.Mask)
       (net 192 "Net-(U11-Pad16)"))
-  )
-
-  (module Footprint:LOGO_Project (layer F.Cu) (tedit 57C7CA2B) (tstamp 57C7CC15)
-    (at 115.57 -31.242)
-    (descr "Project logo")
-    (tags "Project logo")
-    (fp_text reference REF** (at 0.762 -1.524) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value LOGO_Project (at 0 0) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_circle (center 1.27 1.27) (end 1.27 0.508) (layer F.SilkS) (width 0.15))
-    (fp_circle (center -1.27 1.27) (end -1.27 0.508) (layer F.SilkS) (width 0.15))
-    (fp_circle (center 1.27 -1.27) (end 1.27 -0.508) (layer F.SilkS) (width 0.15))
-    (fp_circle (center -1.27 -1.27) (end -1.27 -0.508) (layer F.SilkS) (width 0.15))
-    (fp_line (start 1.27 -1.27) (end -1.27 1.27) (layer F.SilkS) (width 0.15))
-    (fp_line (start -1.27 -1.27) (end 1.27 1.27) (layer F.SilkS) (width 0.15))
-    (fp_text user "Team MicroDynamics" (at 0.508 3.556) (layer F.SilkS)
-      (effects (font (size 0.6 0.6) (thickness 0.15)))
-    )
-    (fp_text user "Breeze Quadcopter" (at 0.508 2.54) (layer F.SilkS)
-      (effects (font (size 0.6 0.6) (thickness 0.15)))
-    )
   )
 
   (gr_line (start 0 -100) (end 0 0) (angle 90) (layer Edge.Cuts) (width 0.15))
