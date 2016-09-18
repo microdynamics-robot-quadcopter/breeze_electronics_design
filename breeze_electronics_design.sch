@@ -160,11 +160,11 @@ Text Label 8450 4300 3    60   ~ 0
 BT_LED
 Text Label 8950 4300 3    60   ~ 0
 VBUS
-Text Label 10450 2400 0    60   ~ 0
+Text Label 10450 2450 0    60   ~ 0
 CE
-Text Label 10450 2700 0    60   ~ 0
+Text Label 10450 2750 0    60   ~ 0
 MOSI
-Text Label 10450 2800 0    60   ~ 0
+Text Label 10450 2850 0    60   ~ 0
 MISO
 Text Label 11150 3700 1    60   ~ 0
 NRF_IRQ
@@ -268,9 +268,9 @@ Text Label 5050 2550 0    60   ~ 0
 OSC_IN
 Text Label 2600 4850 2    60   ~ 0
 VBUS
-Text Label 10450 2600 0    60   ~ 0
+Text Label 10450 2650 0    60   ~ 0
 SCK
-Text Label 10450 2500 0    60   ~ 0
+Text Label 10450 2550 0    60   ~ 0
 CSN
 Text Notes 10450 10950 0    200  ~ 40
 Sensors
@@ -2520,15 +2520,15 @@ Wire Wire Line
 Wire Wire Line
 	14250 4000 14250 4100
 Wire Wire Line
-	10450 2400 10650 2400
+	10450 2450 10650 2450
 Wire Wire Line
-	10450 2500 10650 2500
+	10450 2550 10650 2550
 Wire Wire Line
-	10450 2600 10650 2600
+	10450 2650 10650 2650
 Wire Wire Line
-	10450 2800 10650 2800
+	10450 2850 10650 2850
 Wire Wire Line
-	10450 2700 10650 2700
+	10450 2750 10650 2750
 Connection ~ 5100 4200
 Wire Wire Line
 	5100 4200 5750 4200
