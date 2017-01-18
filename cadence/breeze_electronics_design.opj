@@ -1,0 +1,46 @@
+(ExpressProject "breeze_electronics_design"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\breeze_electronics_design.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn")
+      (Path "Design Resources"
+         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn"
+         "arm_cortex_m3")
+      (Path "Design Resources"
+         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn"
+         "Design Cache")
+      (Select "Design Resources"
+         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn"
+         "arm_cortex_m3" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 594"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
+        (Scroll "24 243")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
+      (Schematic "arm_cortex_m3")
+      (Page "PAGE1"))))
