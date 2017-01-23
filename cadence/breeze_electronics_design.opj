@@ -12,21 +12,38 @@
     (DOCKING_POSITION "59420"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (GND_POWER
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (2N6764
+      (FullPartName "2N6764.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn")
-      (Path "Design Resources"
-         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn"
-         "arm_cortex_m3")
-      (Path "Design Resources"
-         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn"
-         "Design Cache")
-      (Select "Design Resources"
-         "C:\Users\abcd\Documents\GitHub\breeze_electronics_design\cadence\breeze_electronics_design.dsn"
-         "arm_cortex_m3" "PAGE1"))
+      (Path "Design Resources" ".\breeze_electronics_design.dsn")
+      (Path "Design Resources" ".\breeze_electronics_design.dsn"
+         "arm_cortex_m4")
+      (Select "Design Resources" ".\breeze_electronics_design.dsn"
+         "arm_cortex_m4"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -37,10 +54,13 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
-        (Scroll "24 243")
-        (Zoom "100")
+        (Scroll "47 0")
+        (Zoom "88")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
-      (Schematic "arm_cortex_m3")
-      (Page "PAGE1"))))
+      (Schematic "arm_cortex_m4")
+      (Page "PAGE1")))
+  (MPSSessionName "abcd")
+  (LastUsedLibraryBrowseDirectory
+     "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library"))
