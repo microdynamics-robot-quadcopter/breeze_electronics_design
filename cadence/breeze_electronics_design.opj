@@ -15,6 +15,11 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (HM-06-BT
+      (FullPartName "HM-06-BT.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (NRF24L01
       (FullPartName "NRF24L01.Normal")
       (LibraryName
@@ -56,8 +61,7 @@
          "arm_cortex_m4")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
-      (Select "Design Resources" ".\breeze_electronics_design.dsn"
-         "Design Cache"))
+      (Select "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -65,28 +69,28 @@
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 594"))
       (Tab 0))
     (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 949 78 344")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "620 60")
+        (Zoom "250"))
+      (Path
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (Package "HM-06-BT"))
+    (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
-        (Scroll "-217 -5")
-        (Zoom "44")
+        (Scroll "550 32")
+        (Zoom "176")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
       (Schematic "arm_cortex_m4")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 971 130 396")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "1148 166")
-        (Zoom "276"))
-      (Path
-         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
-      (Package "NRF24L01")))
+      (Page "PAGE1")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library\iec"))
