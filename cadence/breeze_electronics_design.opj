@@ -2,7 +2,9 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
     (NoModify)
     (File ".\breeze_electronics_design.dsn"
       (Type "Schematic Design"))
@@ -13,6 +15,16 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (NRF24L01
+      (FullPartName "NRF24L01.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (N74LS366A
+      (FullPartName "N74LS366A.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\BUSDRIVERTRANSCEIVER.OLB")
+      (DeviceIndex "0"))
     (GND_POWER
       (LibraryName
          "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -42,8 +54,10 @@
       (Path "Design Resources" ".\breeze_electronics_design.dsn")
       (Path "Design Resources" ".\breeze_electronics_design.dsn"
          "arm_cortex_m4")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\library1.olb")
       (Select "Design Resources" ".\breeze_electronics_design.dsn"
-         "arm_cortex_m4"))
+         "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -54,13 +68,25 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
-        (Scroll "47 0")
-        (Zoom "88")
+        (Scroll "-217 -5")
+        (Zoom "44")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
       (Schematic "arm_cortex_m4")
-      (Page "PAGE1")))
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 971 130 396")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1148 166")
+        (Zoom "276"))
+      (Path
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (Package "NRF24L01")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
-     "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library"))
+     "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library\iec"))
