@@ -15,6 +15,11 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (MPU9250
+      (FullPartName "MPU9250.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (MS5611
       (FullPartName "MS5611.Normal")
       (LibraryName
@@ -66,7 +71,7 @@
          "arm_cortex_m4")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
-      (Select "Design Resources" "Library" ".\library1.olb"))
+      (Select "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -74,22 +79,10 @@
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 594"))
       (Tab 0))
     (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 897 78 449")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "1066 431")
-        (Zoom "378"))
-      (Path
-         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
-      (Package "MS5611"))
-    (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
-        (Scroll "550 176")
+        (Scroll "796 287")
         (Zoom "176")
         (Occurrence "/"))
       (Path
