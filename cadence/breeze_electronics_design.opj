@@ -20,6 +20,11 @@
       (LibraryName
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
       (DeviceIndex "0"))
+    (STM32F405RGT6
+      (FullPartName "STM32F405RGT6.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (MS5611
       (FullPartName "MS5611.Normal")
       (LibraryName
@@ -71,7 +76,8 @@
          "arm_cortex_m4")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
-      (Select "Design Resources" "Library"))
+      (Select "Design Resources" ".\breeze_electronics_design.dsn"
+         "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -82,8 +88,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
-        (Scroll "796 287")
-        (Zoom "176")
+        (Scroll "57 105")
+        (Zoom "88")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
