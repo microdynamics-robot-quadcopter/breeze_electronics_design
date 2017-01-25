@@ -146,9 +146,8 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
       (Select "Design Resources" ".\breeze_electronics_design.dsn"
-         "arm_cortex_m4" "cpu"))
-    (HierarchyView
-      (Path "arm_cortex_m4"))
+         "arm_cortex_m4"))
+    (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
@@ -157,9 +156,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 871 52 423")
-        (Scroll "249 275")
-        (Zoom "114")
+        (Placement "44 0 1 -1 -1 -8 -31 52 871 52 423")
+        (Scroll "-28 0")
+        (Zoom "62")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
@@ -168,14 +167,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 630 104 475")
-        (Scroll "1026 689")
-        (Zoom "228")
+        (Placement "44 2 3 -1 -1 -8 -31 104 923 104 475")
+        (Scroll "-111 -8")
+        (Zoom "44")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
       (Schematic "arm_cortex_m4")
-      (Page "senor")))
+      (Page "all")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library"))
