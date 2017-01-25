@@ -15,6 +15,10 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (GND_POWER
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (VCC_BAR
       (LibraryName
          "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -83,10 +87,6 @@
       (LibraryName
          "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\BUSDRIVERTRANSCEIVER.OLB")
       (DeviceIndex "0"))
-    (GND_POWER
-      (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (RESISTOR
       (FullPartName "RESISTOR.Normal")
       (LibraryName
@@ -110,7 +110,8 @@
          "arm_cortex_m4")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
-      (Select "Design Resources"))
+      (Select "Design Resources" ".\breeze_electronics_design.dsn"
+         "arm_cortex_m4" "senor"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -121,13 +122,13 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
-        (Scroll "149 320")
-        (Zoom "114")
+        (Scroll "-127 -9")
+        (Zoom "62")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
       (Schematic "arm_cortex_m4")
-      (Page "PAGE1")))
+      (Page "senor")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library"))
