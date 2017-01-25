@@ -15,13 +15,78 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (VCC_BAR
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (GND_POWER
       (LibraryName
          "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (VCC_BAR
+    (MicroUSB
+      (FullPartName "MicroUSB.Normal")
       (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (1R1001
+      (FullPartName "1R1001.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (CP2102
+      (FullPartName "CP2102.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("4 HEADER"
+      (FullPartName "4 HEADER.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (STM32F405RGT6
+      (FullPartName "STM32F405RGT6.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPDT"
+      (FullPartName "SW KEY-SPDT.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LTC4054
+      (FullPartName "LTC4054.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BZX84C10/SOT
+      (FullPartName "BZX84C10/SOT.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BYW4200/DD
+      (FullPartName "BYW4200/DD.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LM27313
+      (FullPartName "LM27313.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (MIC5205X/SOT
+      (FullPartName "MIC5205X/SOT.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
       (DeviceIndex "0"))
     (GND
       (LibraryName
@@ -62,11 +127,6 @@
       (LibraryName
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
       (DeviceIndex "0"))
-    (STM32F405RGT6
-      (FullPartName "STM32F405RGT6.Normal")
-      (LibraryName
-         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
-      (DeviceIndex "0"))
     (MS5611
       (FullPartName "MS5611.Normal")
       (LibraryName
@@ -76,31 +136,6 @@
       (FullPartName "HM-06-BT.Normal")
       (LibraryName
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (NRF24L01
-      (FullPartName "NRF24L01.Normal")
-      (LibraryName
-         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (N74LS366A
-      (FullPartName "N74LS366A.Normal")
-      (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\BUSDRIVERTRANSCEIVER.OLB")
-      (DeviceIndex "0"))
-    (RESISTOR
-      (FullPartName "RESISTOR.Normal")
-      (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (2N6764
-      (FullPartName "2N6764.Normal")
-      (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
-      (DeviceIndex "0"))
-    (CON2
-      (FullPartName "CON2.Normal")
-      (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -111,8 +146,9 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
       (Select "Design Resources" ".\breeze_electronics_design.dsn"
-         "arm_cortex_m4" "senor"))
-    (HierarchyView)
+         "arm_cortex_m4" "cpu"))
+    (HierarchyView
+      (Path "arm_cortex_m4"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
@@ -121,9 +157,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 956 52 318")
-        (Scroll "-127 -9")
-        (Zoom "62")
+        (Placement "44 2 3 -1 -1 -8 -31 52 871 52 423")
+        (Scroll "249 275")
+        (Zoom "114")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
+      (Schematic "arm_cortex_m4")
+      (Page "cpu"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 630 104 475")
+        (Scroll "1026 689")
+        (Zoom "228")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
