@@ -15,18 +15,23 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
-    (VCC_BAR
-      (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (GND_POWER
       (LibraryName
          "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (HM-06-BT
+      (FullPartName "HM-06-BT.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
       (DeviceIndex "0"))
     (MicroUSB
       (FullPartName "MicroUSB.Normal")
       (LibraryName
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (1R1001
       (FullPartName "1R1001.Normal")
@@ -131,11 +136,6 @@
       (FullPartName "MS5611.Normal")
       (LibraryName
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (HM-06-BT
-      (FullPartName "HM-06-BT.Normal")
-      (LibraryName
-         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -143,10 +143,11 @@
       (Path "Design Resources" ".\breeze_electronics_design.dsn")
       (Path "Design Resources" ".\breeze_electronics_design.dsn"
          "arm_cortex_m4")
+      (Path "Design Resources" ".\breeze_electronics_design.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
       (Select "Design Resources" ".\breeze_electronics_design.dsn"
-         "arm_cortex_m4"))
+         "arm_cortex_m4" "all"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -168,8 +169,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 104 923 104 475")
-        (Scroll "-111 -8")
-        (Zoom "44")
+        (Scroll "675 1105")
+        (Zoom "140")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
