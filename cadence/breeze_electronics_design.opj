@@ -85,7 +85,16 @@
     (Netlist_TAB "0"))
   (Folder "Outputs"
     (File ".\breeze_electronics_design.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (MIC5205
@@ -216,12 +225,11 @@
       (Path "Design Resources" ".\breeze_electronics_design.dsn")
       (Path "Design Resources" ".\breeze_electronics_design.dsn"
          "arm_cortex_m4")
-      (Path "Design Resources" ".\breeze_electronics_design.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
       (Path "Outputs")
       (Select "Design Resources" ".\breeze_electronics_design.dsn"
-         "Design Cache" "CP2102"))
+         "arm_cortex_m4" "all"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -231,26 +239,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 845 26 397")
-        (Scroll "1662 274")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 0 815 0 367")
+        (Scroll "0 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
       (Schematic "arm_cortex_m4")
-      (Page "all"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 819 0 371")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "910 242")
-        (Zoom "326"))
-      (Path
-         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
-      (Package "CP2102")))
+      (Page "all")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library")
