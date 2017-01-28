@@ -1,0 +1,665 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ANT1         pins ADDED TO this new net
+                                 L3.1           L4.2           U10.12         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ANT2         pins ADDED TO this new net
+                                 L2.2           L3.2           U10.13         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BAT_DET      pins ADDED TO this new net
+                                 C14.1          R7.2           R10.2          
+                                 U1.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BOOT0        pins ADDED TO this new net
+                                 Q1.2           R1.2           U1.60          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BT_EN        pins ADDED TO this new net
+                                 U1.28          U7.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BT_LED       pins ADDED TO this new net
+                                 R16.1          U11.15         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CE           pins ADDED TO this new net
+                                 U1.45          U10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHG_LED      pins ADDED TO this new net
+                                 LED9.1         U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CSN          pins ADDED TO this new net
+                                 U1.20          U10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DN           pins ADDED TO this new net
+                                 U2.2           U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DP           pins ADDED TO this new net
+                                 U2.3           U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.1           C2.1           C20.1          
+                                 C22.2          C23.1          C24.1          
+                                 C26.2          C27.2          C31.2          
+                                 C32.2          LED1.1         LED2.1         
+                                 LED3.1         LED4.1         LED5.1         
+                                 LED6.1         LED7.1         LED8.1         
+                                 LED10.1        LED11.1        R12.1          
+                                 U1.12          U1.18          U1.63          
+                                 U10.8          U10.14         U10.17         
+                                 U10.20         U11.12         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND_POWER    pins ADDED TO this new net
+                                 C3.2           C4.1           C5.2           
+                                 C6.2           C7.2           C8.2           
+                                 C9.2           C10.2          C12.2          
+                                 C13.2          C14.2          C15.2          
+                                 C16.2          C17.2          C18.2          
+                                 C19.2          C25.2          C28.2          
+                                 C29.2          C30.2          C33.2          
+                                 C34.2          J3.4           J6.2           
+                                 Q1.3           Q2.1           Q3.1           
+                                 Q4.1           Q5.1           R2.2           
+                                 R3.2           R5.2           R6.2           
+                                 R9.1           R10.1          R11.2          
+                                 U2.5           U2.6           U2.7           
+                                 U2.8           U2.9           U3.3           
+                                 U4.2           U5.2           U6.2           
+                                 U7.2           U9.11          U9.18          
+                                 U9.20          U12.3          U12.4          
+                                 U12.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C_SCL      pins ADDED TO this new net
+                                 U1.58          U9.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C_SDA      pins ADDED TO this new net
+                                 U1.59          U9.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO         pins ADDED TO this new net
+                                 U1.22          U10.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI         pins ADDED TO this new net
+                                 U1.23          U10.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MP_INT       pins ADDED TO this new net
+                                 U1.57          U9.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N52893       pins ADDED TO this new net
+                                 C6.1           U1.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N52947       pins ADDED TO this new net
+                                 C11.2          R8.2           R11.1          
+                                 U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N52967       pins ADDED TO this new net
+                                 D2.1           L1.2           U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N53015       pins ADDED TO this new net
+                                 C3.1           U1.47          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N53277       pins ADDED TO this new net
+                                 R9.2           U5.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N53393       pins ADDED TO this new net
+                                 SW1.3          U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N53397       pins ADDED TO this new net
+                                 J6.1           SW1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N53935       pins ADDED TO this new net
+                                 Q1.1           U3.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N54019       pins ADDED TO this new net
+                                 C4.2           U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N55745       pins ADDED TO this new net
+                                 U9.7           U12.8          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N55749       pins ADDED TO this new net
+                                 U9.21          U12.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N55873       pins ADDED TO this new net
+                                 C28.1          U9.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N56477       pins ADDED TO this new net
+                                 R12.2          U10.16         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N56481       pins ADDED TO this new net
+                                 C20.2          U10.19         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N56545       pins ADDED TO this new net
+                                 C26.1          C27.1          L4.1           
+                                 U10.11         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N56633       pins ADDED TO this new net
+                                 C21.1          L2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N56641       pins ADDED TO this new net
+                                 C21.2          C22.1          U8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N56657       pins ADDED TO this new net
+                                 C31.1          U10.9          Y2.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N56665       pins ADDED TO this new net
+                                 C32.1          U10.10         Y2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N57717       pins ADDED TO this new net
+                                 LED6.2         R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N57741       pins ADDED TO this new net
+                                 LED9.2         R17.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N58069       pins ADDED TO this new net
+                                 LED1.2         LED2.2         R13.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N58129       pins ADDED TO this new net
+                                 LED3.2         LED4.2         R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N58161       pins ADDED TO this new net
+                                 LED5.2         LED7.2         R18.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N58205       pins ADDED TO this new net
+                                 LED10.2        LED11.2        R19.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N58245       pins ADDED TO this new net
+                                 LED8.2         R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N58902       pins ADDED TO this new net
+                                 J2.2           Q3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N59024       pins ADDED TO this new net
+                                 J4.2           Q4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N59130       pins ADDED TO this new net
+                                 J5.2           Q5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N59236       pins ADDED TO this new net
+                                 J1.2           Q2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NRF_IRQ      pins ADDED TO this new net
+                                 U1.50          U10.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSC_IN       pins ADDED TO this new net
+                                 C9.1           U1.5           Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSC_OUT      pins ADDED TO this new net
+                                 C10.1          U1.6           Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PA8          pins ADDED TO this new net
+                                 R14.1          U1.41          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA11         pins ADDED TO this new net
+                                 R13.1          U1.44          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB1          pins ADDED TO this new net
+                                 R18.1          U1.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB3          pins ADDED TO this new net
+                                 R19.1          U1.55          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWMA         pins ADDED TO this new net
+                                 Q2.2           R2.1           U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWMB         pins ADDED TO this new net
+                                 Q3.2           R3.1           U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWMC         pins ADDED TO this new net
+                                 Q4.2           R5.1           U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWMD         pins ADDED TO this new net
+                                 Q5.2           R6.1           U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RST          pins ADDED TO this new net
+                                 C5.1           R4.2           U1.7           
+                                 U3.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXD_BT       pins ADDED TO this new net
+                                 U1.43          U3.26          U11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 U1.21          U10.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWCLK        pins ADDED TO this new net
+                                 J3.1           U1.49          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWDIO        pins ADDED TO this new net
+                                 J3.2           U1.46          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TXD_BT       pins ADDED TO this new net
+                                 U1.42          U3.25          U11.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V33BT        pins ADDED TO this new net
+                                 C18.1          C19.1          U7.5           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U11.9          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V3D3         pins ADDED TO this new net
+                                 C1.2           C2.2           C16.1          
+                                 C17.1          C23.2          C24.2          
+                                 C25.1          C29.1          C30.1          
+                                 C33.1          C34.1          J3.3           
+                                 R4.1           R15.1          U1.1           
+                                 U1.13          U1.19          U1.32          
+                                 U1.48          U1.64          U6.5           
+                                 U9.1           U9.8           U9.9           
+                                 U9.13          U9.22          U10.7          
+                                 U10.15         U10.18         U12.1          
+                                 U12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V5D0         pins ADDED TO this new net
+                                 C7.1           C8.1           C11.1          
+                                 D1.3           D2.3           R8.1           
+                                 U6.1           U6.3           U7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBUS         pins ADDED TO this new net
+                                 C15.1          D1.1           R1.1           
+                                 R17.1          U2.1           U3.7           
+                                 U3.8           U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VSYS         pins ADDED TO this new net
+                                 C12.1          C13.1          J1.1           
+                                 J2.1           J4.1           J5.1           
+                                 L1.1           R7.1           SW1.8          
+                                 U4.4           U4.5           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1R1001_SOT23_132_S8050
+ 2N6764_SOT23_SI2302
+ 4 HEADER_SIP4_SIP4
+ AN9520-245_ANT_AN9520-245
+ BZX84C10/SOT_SOD-123_MBR0520
+ CAP NP_C0402_0.1UF
+ CAP NP_C0402_1.5PF
+ CAP NP_C0402_10NF
+ CAP NP_C0402_1PF
+ CAP NP_C0402_2.2NF
+ CAP NP_C0402_2.2UF
+ CAP NP_C0402_220PF
+ CAP NP_C0402_22PF
+ CAP NP_C0402_4.7PF
+ CAP NP_C0402_4.7UF
+ CAP POL_C1206_10UF
+ CON2_SIP2_M1
+ CON2_SIP2_M2
+ CON2_SIP2_M3
+ CON2_SIP2_M4
+ CON2_SIP2_M5
+ CP2102_QFN28_CP2102
+ CRYSTAL_CSTCE8M00G55R0_8MHZ
+ CRYSTAL_XTAL_32X25_16MHZ
+ HM-06-BT_BT_UART_13D5X18D5MM_HM
+ INDUCTOR_L0402_2.7NH
+ INDUCTOR_L0402_3.9NH
+ INDUCTOR_L0402_4.7UH
+ INDUCTOR_L0402_8.2NH
+ LED_LED0603_BT_LED
+ LED_LED0603_CHG_LED
+ LED_LED0603_M1_LED_BOT
+ LED_LED0603_M1_LED_TOP
+ LED_LED0603_M2_LED_BOT
+ LED_LED0603_M2_LED_TOP
+ LED_LED0603_M3_LED_BOT
+ LED_LED0603_M3_LED_TOP
+ LED_LED0603_M4_LED_BOT
+ LED_LED0603_M4_LED_TOP
+ LED_LED0603_POWER
+ LM27313_SOT23_5WS_LM27313
+ LTC4054_SOT23_5WS_LTC4054
+ MIC5205_SOT23_5WS_MIC5205
+ MIC5205_SOT23_5WS_MIC5205-3.3
+ MICROUSB_MINI_USB1_MICROUSB
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ MPU9250_QFN24_MPU9250
+ MS5611_XTAL_5X3_MS5611
+ NRF24L01_QFN20_NRF24L01
+ RESISTOR_R0402_33K
+ R_R0402_100
+ R_R0402_1.65K
+ R_R0402_10K
+ R_R0402_22K
+ R_R0402_33K
+ STM32F405RGT6_LQFP64_STM32F405R
+ SW KEY-SPDT_SW_2X3_SW2X3
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_C0402_0.1UF    
+ C2                  CAP NP_C0402_2.2UF    
+ C3                  CAP NP_C0402_4.7UF    
+ C4                  CAP NP_C0402_2.2UF    
+ C5                  CAP NP_C0402_2.2UF    
+ C6                  CAP NP_C0402_4.7UF    
+ C7                  CAP NP_C0402_0.1UF    
+ C8                  CAP NP_C0402_2.2UF    
+ C9                  CAP NP_C0402_22PF     
+ C10                 CAP NP_C0402_22PF     
+ C11                 CAP NP_C0402_220PF    
+ C12                 CAP NP_C0402_0.1UF    
+ C13                 CAP POL_C1206_10UF    
+ C14                 CAP NP_C0402_2.2UF    
+ C15                 CAP POL_C1206_10UF    
+ C16                 CAP NP_C0402_2.2UF    
+ C17                 CAP NP_C0402_0.1UF    
+ C18                 CAP NP_C0402_2.2UF    
+ C19                 CAP NP_C0402_0.1UF    
+ C20                 CAP NP_C0402_2.2UF    
+ C21                 CAP NP_C0402_1.5PF    
+ C22                 CAP NP_C0402_1PF      
+ C23                 CAP NP_C0402_0.1UF    
+ C24                 CAP NP_C0402_2.2UF    
+ C25                 CAP NP_C0402_0.1UF    
+ C26                 CAP NP_C0402_4.7PF    
+ C27                 CAP NP_C0402_2.2NF    
+ C28                 CAP NP_C0402_0.1UF    
+ C29                 CAP NP_C0402_10NF     
+ C30                 CAP NP_C0402_2.2UF    
+ C31                 CAP NP_C0402_22PF     
+ C32                 CAP NP_C0402_22PF     
+ C33                 CAP NP_C0402_0.1UF    
+ C34                 CAP NP_C0402_0.1UF    
+ D1                  BZX84C10/SOT_SOD-123_MBR0520 
+ D2                  BZX84C10/SOT_SOD-123_MBR0520 
+ J1                  CON2_SIP2_M1          
+ J2                  CON2_SIP2_M2          
+ J3                  4 HEADER_SIP4_SIP4    
+ J4                  CON2_SIP2_M3          
+ J5                  CON2_SIP2_M4          
+ J6                  CON2_SIP2_M5          
+ L1                  INDUCTOR_L0402_4.7UH  
+ L2                  INDUCTOR_L0402_3.9NH  
+ L3                  INDUCTOR_L0402_8.2NH  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L4                  INDUCTOR_L0402_2.7NH  
+ LED1                LED_LED0603_M1_LED_TOP 
+ LED2                LED_LED0603_M1_LED_BOT 
+ LED3                LED_LED0603_M2_LED_TOP 
+ LED4                LED_LED0603_M2_LED_BOT 
+ LED5                LED_LED0603_M3_LED_TOP 
+ LED6                LED_LED0603_BT_LED    
+ LED7                LED_LED0603_M3_LED_BOT 
+ LED8                LED_LED0603_POWER     
+ LED9                LED_LED0603_CHG_LED   
+ LED10               LED_LED0603_M4_LED_TOP 
+ LED11               LED_LED0603_M4_LED_BOT 
+ Q1                  1R1001_SOT23_132_S8050 
+ Q2                  2N6764_SOT23_SI2302   
+ Q3                  2N6764_SOT23_SI2302   
+ Q4                  2N6764_SOT23_SI2302   
+ Q5                  2N6764_SOT23_SI2302   
+ R1                  R_R0402_10K           
+ R2                  RESISTOR_R0402_33K    
+ R3                  RESISTOR_R0402_33K    
+ R4                  R_R0402_10K           
+ R5                  RESISTOR_R0402_33K    
+ R6                  RESISTOR_R0402_33K    
+ R7                  R_R0402_33K           
+ R8                  R_R0402_33K           
+ R9                  R_R0402_1.65K         
+ R10                 R_R0402_33K           
+ R11                 R_R0402_10K           
+ R12                 R_R0402_22K           
+ R13                 R_R0402_100           
+ R14                 R_R0402_100           
+ R15                 R_R0402_10K           
+ R16                 R_R0402_100           
+ R17                 R_R0402_100           
+ R18                 R_R0402_100           
+ R19                 R_R0402_100           
+ SW1                 SW KEY-SPDT_SW_2X3_SW2X3 
+ U1                  STM32F405RGT6_LQFP64_STM32F405R 
+ U2                  MICROUSB_MINI_USB1_MICROUSB 
+ U3                  CP2102_QFN28_CP2102   
+ U4                  LM27313_SOT23_5WS_LM27313 
+ U5                  LTC4054_SOT23_5WS_LTC4054 
+ U6                  MIC5205_SOT23_5WS_MIC5205-3.3 
+ U7                  MIC5205_SOT23_5WS_MIC5205 
+ U8                  AN9520-245_ANT_AN9520-245 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U9                  MPU9250_QFN24_MPU9250 
+ U10                 NRF24L01_QFN20_NRF24L01 
+ U11                 HM-06-BT_BT_UART_13D5X18D5MM_HM 
+ U12                 MS5611_XTAL_5X3_MS5611 
+ Y1                  CRYSTAL_CSTCE8M00G55R0_8MHZ 
+ Y2                  CRYSTAL_XTAL_32X25_16MHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ C29.2                          PRIM_FILE      .\pstchip.dat
+ C30.2                          PRIM_FILE      .\pstchip.dat
+ C31.2                          PRIM_FILE      .\pstchip.dat
+ C32.2                          PRIM_FILE      .\pstchip.dat
+ C33.2                          PRIM_FILE      .\pstchip.dat
+ C34.2                          PRIM_FILE      .\pstchip.dat
+ D1.3                           PRIM_FILE      .\pstchip.dat
+ D2.3                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.4                           PRIM_FILE      .\pstchip.dat
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ J5.2                           PRIM_FILE      .\pstchip.dat
+ J6.2                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ L3.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L4.2                           PRIM_FILE      .\pstchip.dat
+ LED1.1                         PRIM_FILE      .\pstchip.dat
+ LED2.1                         PRIM_FILE      .\pstchip.dat
+ LED3.1                         PRIM_FILE      .\pstchip.dat
+ LED4.1                         PRIM_FILE      .\pstchip.dat
+ LED5.1                         PRIM_FILE      .\pstchip.dat
+ LED6.1                         PRIM_FILE      .\pstchip.dat
+ LED7.1                         PRIM_FILE      .\pstchip.dat
+ LED8.1                         PRIM_FILE      .\pstchip.dat
+ LED9.1                         PRIM_FILE      .\pstchip.dat
+ LED10.1                        PRIM_FILE      .\pstchip.dat
+ LED11.1                        PRIM_FILE      .\pstchip.dat
+ Q1.3                           PRIM_FILE      .\pstchip.dat
+ Q2.1                           PRIM_FILE      .\pstchip.dat
+ Q3.1                           PRIM_FILE      .\pstchip.dat
+ Q4.1                           PRIM_FILE      .\pstchip.dat
+ Q5.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ SW1.3                          PRIM_FILE      .\pstchip.dat
+ U1.12                          PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+ U3.11                          PRIM_FILE      .\pstchip.dat
+ U4.5                           PRIM_FILE      .\pstchip.dat
+ U5.1                           PRIM_FILE      .\pstchip.dat
+ U6.1                           PRIM_FILE      .\pstchip.dat
+ U7.1                           PRIM_FILE      .\pstchip.dat
+ U8.1                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  C:.../CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd                         |
+|                                                    Sat Jan 28 13:57:03 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U9.8                           PRIM_FILE      .\pstchip.dat
+ U10.10                         PRIM_FILE      .\pstchip.dat
+ U11.9                          PRIM_FILE      .\pstchip.dat
+ U12.1                          PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+ Y2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     297                                        |
+|       Comp definitions added:      56                                        |
+|       Components added      :      96                                        |
+|       Slot property added   :      96                                        |
+|                                                                              |
+|   Total ECO changes reported:     545                                        |
+|------------------------------------------------------------------------------|

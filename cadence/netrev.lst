@@ -1,0 +1,310 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : BREEZE_ELECTRONICS_DESIGN.brd                 )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Jan 28 13:57:02 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE'
+Design Directory:            'C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/allegro'
+Old design name:             'C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd'
+New design name:             'C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/allegro/BREEZE_ELECTRONICS_DESIGN.brd'
+
+CmdLine: netrev.exe -y 1 -n -i C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\allegro\BREEZE_ELECTRONICS_DESIGN.brd C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\allegro\BREEZE_ELECTRONICS_DESIGN.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/pstchip.dat 
+   Finished reading C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/pstchip.dat (00:00:00.15)
+Starting to read C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/pstxprt.dat 
+   Finished reading C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/pstxnet.dat 
+   Finished reading C:/USERS/ABCD/DOCUMENTS/GITHUB/BREEZE_ELECTRONICS_DESIGN/CADENCE/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C1 for device 'CAP NP_C0402_0.1UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C10 for device 'CAP NP_C0402_22PF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C11 for device 'CAP NP_C0402_220PF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C1206' used by RefDes C13 for device 'CAP POL_C1206_10UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C14 for device 'CAP NP_C0402_2.2UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C21 for device 'CAP NP_C0402_1.5PF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C22 for device 'CAP NP_C0402_1PF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C26 for device 'CAP NP_C0402_4.7PF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C27 for device 'CAP NP_C0402_2.2NF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C29 for device 'CAP NP_C0402_10NF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0402' used by RefDes C3 for device 'CAP NP_C0402_4.7UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOD-123' used by RefDes D1 for device 'BZX84C10/SOT_SOD-123_MBR0520' not found in PSMPATH or must be "dbdoctor"ed.
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SIP2' used by RefDes J1 for device 'CON2_SIP2_M1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SIP2' used by RefDes J2 for device 'CON2_SIP2_M2' not found in PSMPATH or must be "dbdoctor"ed.
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SIP4' used by RefDes J3 for device '4 HEADER_SIP4_SIP4' not found in PSMPATH or must be "dbdoctor"ed.
+
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SIP2' used by RefDes J4 for device 'CON2_SIP2_M3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SIP2' used by RefDes J5 for device 'CON2_SIP2_M4' not found in PSMPATH or must be "dbdoctor"ed.
+
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SIP2' used by RefDes J6 for device 'CON2_SIP2_M5' not found in PSMPATH or must be "dbdoctor"ed.
+
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'L0402' used by RefDes L1 for device 'INDUCTOR_L0402_4.7UH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'L0402' used by RefDes L2 for device 'INDUCTOR_L0402_3.9NH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'L0402' used by RefDes L3 for device 'INDUCTOR_L0402_8.2NH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'L0402' used by RefDes L4 for device 'INDUCTOR_L0402_2.7NH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED1 for device 'LED_LED0603_M1_LED_TOP' not found in PSMPATH or must be "dbdoctor"ed.
+
+#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED10 for device 'LED_LED0603_M4_LED_TOP' not found in PSMPATH or must be "dbdoctor"ed.
+
+#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED11 for device 'LED_LED0603_M4_LED_BOT' not found in PSMPATH or must be "dbdoctor"ed.
+
+#26  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED2 for device 'LED_LED0603_M1_LED_BOT' not found in PSMPATH or must be "dbdoctor"ed.
+
+#27  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED3 for device 'LED_LED0603_M2_LED_TOP' not found in PSMPATH or must be "dbdoctor"ed.
+
+#28  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED4 for device 'LED_LED0603_M2_LED_BOT' not found in PSMPATH or must be "dbdoctor"ed.
+
+#29  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED5 for device 'LED_LED0603_M3_LED_TOP' not found in PSMPATH or must be "dbdoctor"ed.
+
+#30  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED6 for device 'LED_LED0603_BT_LED' not found in PSMPATH or must be "dbdoctor"ed.
+
+#31  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED7 for device 'LED_LED0603_M3_LED_BOT' not found in PSMPATH or must be "dbdoctor"ed.
+
+#32  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED8 for device 'LED_LED0603_POWER' not found in PSMPATH or must be "dbdoctor"ed.
+
+#33  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes LED9 for device 'LED_LED0603_CHG_LED' not found in PSMPATH or must be "dbdoctor"ed.
+
+#34  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT23_132' used by RefDes Q1 for device '1R1001_SOT23_132_S8050' not found in PSMPATH or must be "dbdoctor"ed.
+
+#35  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0402' used by RefDes R1 for device 'R_R0402_10K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#36  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0402' used by RefDes R10 for device 'R_R0402_33K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#37  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0402' used by RefDes R12 for device 'R_R0402_22K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#38  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0402' used by RefDes R13 for device 'R_R0402_100' not found in PSMPATH or must be "dbdoctor"ed.
+
+#39  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0402' used by RefDes R2 for device 'RESISTOR_R0402_33K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#40  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0402' used by RefDes R9 for device 'R_R0402_1.65K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#41  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SW_2X3' used by RefDes SW1 for device 'SW KEY-SPDT_SW_2X3_SW2X3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#42  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LQFP64' used by RefDes U1 for device 'STM32F405RGT6_LQFP64_STM32F405R' not found in PSMPATH or must be "dbdoctor"ed.
+
+#43  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFN20' used by RefDes U10 for device 'NRF24L01_QFN20_NRF24L01' not found in PSMPATH or must be "dbdoctor"ed.
+
+#44  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'BT_UART_13D5X18D5MM' used by RefDes U11 for device 'HM-06-BT_BT_UART_13D5X18D5MM_HM' not found in PSMPATH or must be "dbdoctor"ed.
+
+#45  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'XTAL_5X3' used by RefDes U12 for device 'MS5611_XTAL_5X3_MS5611' not found in PSMPATH or must be "dbdoctor"ed.
+
+#46  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'MINI_USB1' used by RefDes U2 for device 'MICROUSB_MINI_USB1_MICROUSB' not found in PSMPATH or must be "dbdoctor"ed.
+
+#47  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFN28' used by RefDes U3 for device 'CP2102_QFN28_CP2102' not found in PSMPATH or must be "dbdoctor"ed.
+
+#48  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT23_5WS' used by RefDes U4 for device 'LM27313_SOT23_5WS_LM27313' not found in PSMPATH or must be "dbdoctor"ed.
+
+#49  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT23_5WS' used by RefDes U5 for device 'LTC4054_SOT23_5WS_LTC4054' not found in PSMPATH or must be "dbdoctor"ed.
+
+#50  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT23_5WS' used by RefDes U6 for device 'MIC5205_SOT23_5WS_MIC5205-3.3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#51  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT23_5WS' used by RefDes U7 for device 'MIC5205_SOT23_5WS_MIC5205' not found in PSMPATH or must be "dbdoctor"ed.
+
+#52  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'ANT' used by RefDes U8 for device 'AN9520-245_ANT_AN9520-245' not found in PSMPATH or must be "dbdoctor"ed.
+
+#53  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFN24' used by RefDes U9 for device 'MPU9250_QFN24_MPU9250' not found in PSMPATH or must be "dbdoctor"ed.
+
+#54  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CSTCE8M00G55R0' used by RefDes Y1 for device 'CRYSTAL_CSTCE8M00G55R0_8MHZ' not found in PSMPATH or must be "dbdoctor"ed.
+
+#55  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'XTAL_32X25' used by RefDes Y2 for device 'CRYSTAL_XTAL_32X25_16MHZ' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           E:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/symbols 
+           E:/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           E:/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/padstacks 
+           E:/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           E:/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 28 13:57:02 2017
+   DESIGN NAME : 'BREEZE_ELECTRONICS_DESIGN'
+   PACKAGING ON Feb 15 2016 19:53:59
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 55 warnings detected
+
+cpu time      0:03:40
+elapsed time  0:00:02
+

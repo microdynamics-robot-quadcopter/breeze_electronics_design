@@ -1,0 +1,970 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jan-28-2017 at 13:56:53 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BREEZE_ELECTRONICS_DESIGN';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53551@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53551@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53551@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS51971@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins51971@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins51971@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0402_220PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52869@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52869@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52869@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52691@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52691@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52691@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP POL_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52713@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52713@discrete.\cap pol.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52713@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52545@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52545@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52545@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP POL_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53237@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53237@discrete.\cap pol.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53237@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52239@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52239@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52239@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52261@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52261@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52261@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52383@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52383@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52383@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52405@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52405@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52405@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53571@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53571@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53571@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56151@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56151@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56151@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0402_1.5PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56363@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56363@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56363@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_C0402_1PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56347@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56347@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56347@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56261@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56261@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56261@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56277@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56277@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56277@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS55803@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins55803@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins55803@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0402_4.7PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56395@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56395@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56395@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0402_2.2NF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56379@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56379@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56379@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS55851@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins55851@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins55851@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_C0402_10NF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS55899@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins55899@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins55899@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52895@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52895@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52895@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS55599@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins55599@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins55599@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56187@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56187@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56187@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56215@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56215@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56215@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS55629@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins55629@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins55629@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS110641@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins110641@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins110641@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53971@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53971@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53971@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53729@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53729@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53729@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52773@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52773@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52773@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52757@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52757@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52757@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52793@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52793@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52793@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS51955@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins51955@discrete.\cap np.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins51955@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'BZX84C10/SOT_SOD-123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS51877@DISCRETE.BZX84C10/SOT.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins51877@discrete.\bzx84c10/sot.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins51877@discrete.\bzx84c10/sot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'BZX84C10/SOT_SOD-123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52915@DISCRETE.BZX84C10/SOT.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52915@discrete.\bzx84c10/sot.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52915@discrete.\bzx84c10/sot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_SIP2_M1':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59218@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59218@connector.\con2.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59218@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_SIP2_M2':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58904@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58904@connector.\con2.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58904@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 '4 HEADER_SIP4_SIP4':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53651@CONNECTOR.4 HEADER.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53651@connector.\4 header.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53651@connector.\4 header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON2_SIP2_M3':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59006@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59006@connector.\con2.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59006@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON2_SIP2_M4':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59112@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59112@connector.\con2.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59112@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON2_SIP2_M5':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53293@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53293@connector.\con2.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53293@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L0402_4.7UH':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52735@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52735@discrete.\inductor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52735@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_L0402_3.9NH':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56459@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56459@discrete.\inductor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56459@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_L0402_8.2NH':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56427@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56427@discrete.\inductor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56427@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_L0402_2.7NH':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56443@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56443@discrete.\inductor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56443@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_LED0603_M1_LED_TOP':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57823@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57823@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57823@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED10 'LED_LED0603_M4_LED_TOP':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57919@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57919@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57919@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED11 'LED_LED0603_M4_LED_BOT':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57935@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57935@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57935@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_LED0603_M1_LED_BOT':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57839@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57839@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57839@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED3 'LED_LED0603_M2_LED_TOP':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57855@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57855@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57855@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED4 'LED_LED0603_M2_LED_BOT':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57871@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57871@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57871@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED5 'LED_LED0603_M3_LED_TOP':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57887@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57887@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57887@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED6 'LED_LED0603_BT_LED':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58299@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58299@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58299@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED7 'LED_LED0603_M3_LED_BOT':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57903@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57903@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57903@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED8 'LED_LED0603_POWER':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58253@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58253@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58253@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED9 'LED_LED0603_CHG_LED':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57749@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57749@discrete.\led.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57749@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '1R1001_SOT23_132_S8050':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53893@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53893@transistor.\1r1001.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53893@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '2N6764_SOT23_SI2302':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59238@TRANSISTOR.2N6764.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59238@transistor.\2n6764.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59238@transistor.\2n6764.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 '2N6764_SOT23_SI2302':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58920@TRANSISTOR.2N6764.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58920@transistor.\2n6764.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58920@transistor.\2n6764.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 '2N6764_SOT23_SI2302':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59030@TRANSISTOR.2N6764.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59030@transistor.\2n6764.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59030@transistor.\2n6764.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 '2N6764_SOT23_SI2302':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59144@TRANSISTOR.2N6764.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59144@transistor.\2n6764.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59144@transistor.\2n6764.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53871@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53871@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53871@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52589@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52589@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52589@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52847@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52847@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52847@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0402_22K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56167@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56167@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56167@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0402_100':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58075@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58075@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58075@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0402_100':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58111@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58111@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58111@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58269@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58269@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58269@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_R0402_100':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57699@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57699@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57699@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0402_100':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS57765@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins57765@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins57765@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0402_100':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58143@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58143@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58143@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0402_100':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58173@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58173@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58173@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59256@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59256@discrete.\resistor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59256@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS58942@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins58942@discrete.\resistor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins58942@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53707@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53707@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53707@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59048@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59048@discrete.\resistor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59048@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS59162@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins59162@discrete.\resistor.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins59162@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52567@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52567@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52567@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52821@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52821@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52821@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0402_1.65K':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53215@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53215@discrete.\r.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53215@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW KEY-SPDT_SW_2X3_SW2X3':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53339@DISCRETE.SW KEY-SPDT.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53339@discrete.\sw key-spdt.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53339@discrete.\sw key-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F405RGT6_LQFP64_STM32F405R':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53411@LIBRARY1.STM32F405RGT6.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53411@library1.\stm32f405rgt6.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53411@library1.\stm32f405rgt6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'NRF24L01_QFN20_NRF24L01':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS55927@LIBRARY1.NRF24L01.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins55927@library1.\nrf24l01.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins55927@library1.\nrf24l01.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'HM-06-BT_BT_UART_13D5X18D5MM_HM':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS76639@LIBRARY1.HM-06-BT.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins76639@library1.\hm-06-bt.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins76639@library1.\hm-06-bt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'MS5611_XTAL_5X3_MS5611':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56059@LIBRARY1.MS5611.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56059@library1.\ms5611.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56059@library1.\ms5611.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MICROUSB_MINI_USB1_MICROUSB':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS72938@LIBRARY1.MICROUSB.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins72938@library1.\microusb.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins72938@library1.\microusb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'CP2102_QFN28_CP2102':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53785@LIBRARY1.CP2102.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53785@library1.\cp2102.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53785@library1.\cp2102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM27313_SOT23_5WS_LM27313':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS52669@LIBRARY1.LM27313.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins52669@library1.\lm27313.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins52669@library1.\lm27313.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LTC4054_SOT23_5WS_LTC4054':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS53313@LIBRARY1.LTC4054.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins53313@library1.\ltc4054.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins53313@library1.\ltc4054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'MIC5205_SOT23_5WS_MIC5205-3.3':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS102266@LIBRARY1.MIC5205.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins102266@library1.\mic5205.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins102266@library1.\mic5205.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'MIC5205_SOT23_5WS_MIC5205':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS103429@LIBRARY1.MIC5205.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins103429@library1.\mic5205.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins103429@library1.\mic5205.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'AN9520-245_ANT_AN9520-245':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56333@LIBRARY1.AN9520-245.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56333@library1.\an9520-245.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56333@library1.\an9520-245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'MPU9250_QFN24_MPU9250':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56091@LIBRARY1.MPU9250.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56091@library1.\mpu9250.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56091@library1.\mpu9250.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_CSTCE8M00G55R0_8MHZ':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS51987@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins51987@discrete.\crystal.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins51987@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_XTAL_32X25_16MHZ':;
+
+SECTION_NUMBER 1
+ '@BREEZE_ELECTRONICS_DESIGN.ARM_CORTEX_M4(SCH_1):INS56411@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):ins56411@discrete.\crystal.normal\(chips)',
+ P_PATH='@breeze_electronics_design.arm_cortex_m4(sch_1):page1_ins56411@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

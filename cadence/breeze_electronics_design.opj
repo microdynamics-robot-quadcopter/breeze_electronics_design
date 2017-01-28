@@ -63,7 +63,26 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE")
+    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "allegro\BREEZE_ELECTRONICS_DESIGN.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "NEITHER")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
   (Folder "Outputs"
     (File ".\breeze_electronics_design.drc"
       (Type "Report")))
@@ -197,11 +216,12 @@
       (Path "Design Resources" ".\breeze_electronics_design.dsn")
       (Path "Design Resources" ".\breeze_electronics_design.dsn"
          "arm_cortex_m4")
+      (Path "Design Resources" ".\breeze_electronics_design.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
       (Path "Outputs")
       (Select "Design Resources" ".\breeze_electronics_design.dsn"
-         "arm_cortex_m4" "all"))
+         "Design Cache" "CP2102"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -211,14 +231,27 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 923 104 475")
-        (Scroll "0 377")
-        (Zoom "176")
+        (Placement "44 2 3 -1 -1 -8 -31 26 845 26 397")
+        (Scroll "1662 274")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\BREEZE_ELECTRONICS_DESIGN.DSN")
       (Schematic "arm_cortex_m4")
-      (Page "all")))
+      (Page "all"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 819 0 371")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "910 242")
+        (Zoom "326"))
+      (Path
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\BREEZE_ELECTRONICS_DESIGN\CADENCE\LIBRARY1.OLB")
+      (Package "CP2102")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
-     "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library"))
+     "E:\Cadence\Cadence_SPB_16.6-2015\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))
