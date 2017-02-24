@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VFAERYNW
 
 [Document3]
-DocumentPath=power.SchDoc
+DocumentPath=breeze_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MXFIKPQH
 
 [Document4]
-DocumentPath=motor.SchDoc
+DocumentPath=breeze_motor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JMCNCWQJ
 
 [Document5]
-DocumentPath=sensor.SchDoc
+DocumentPath=breeze_sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MOIXUGYN
 
 [Document6]
-DocumentPath=wireless.SchDoc
+DocumentPath=breeze_wireless.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CTWFRXDB
 
 [Document7]
-DocumentPath=controller.SchDoc
+DocumentPath=breeze_controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
