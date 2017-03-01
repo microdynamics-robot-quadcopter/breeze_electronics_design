@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CTWFRXDB
 
 [Document8]
-DocumentPath=breeze_electronics_design.PcbDoc
+DocumentPath=breeze_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -172,7 +172,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KNKJHREH
+DocumentUniqueId=LSBAFPUO
 
 [Configuration1]
 Name=Default Configuration
