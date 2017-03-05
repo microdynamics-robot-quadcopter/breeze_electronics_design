@@ -19,4 +19,4 @@ $> git clone https://github.com/microdynamics-quadcopter/breeze_electronics_desi
 Launch the **Altium Designer** software, and open **breeze_electronics_design.PrjPcb** file to view or develop PCB project.
 
 ## Note
-If you want to use our templates for schematic or pcb, pleasesexecute the **setup.bat** by double click.
+If you want to use our templates for schematic or pcb, please execute the **setup.bat** by double click.
