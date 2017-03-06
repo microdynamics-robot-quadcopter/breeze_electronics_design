@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for breeze_electronics_design
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -238,7 +238,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for breeze_electronics_design
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
