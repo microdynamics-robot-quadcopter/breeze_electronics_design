@@ -206,7 +206,7 @@ AutoOpenFile=0
 AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
-ProjectMode=-1
+ProjectMode=0
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
@@ -214,7 +214,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=BOM Default Template.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
@@ -235,7 +235,7 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
 
 [Generic_EDE]
 OutputDir=Project Outputs for breeze_electronics_design
