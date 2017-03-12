@@ -1,6 +1,7 @@
 # breeze_electronics_design
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-v0.1-yellow.svg)
 [![License GPL](https://img.shields.io/badge/license-GPL-blue.svg)](../LICENSE)
 
 ## Description
