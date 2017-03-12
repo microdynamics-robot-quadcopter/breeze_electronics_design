@@ -19,11 +19,23 @@ $> git clone https://github.com/microdynamics-quadcopter/breeze_electronics_desi
 Launch the **Altium Designer** software, and open **breeze_electronics_design.PrjPcb** file to view or develop PCB project.
 
 ## Schematic
-### Motor
+* ### Motor
 ![breeze_motor](images/breeze_motor.png)
 
-### Sensor
+* ### Sensor
 ![breeze_sensor](images/breeze_sensor.png)
 
+* ### Wireless
+![breeze_wireless](images/breeze_wireless.png)
+
+* ### Power
+![breeze_power](images/breeze_power.png)
+
+* ### Controller
+![breeze_controller](images/breeze_controller.png)
+
+## PCB
+![breeze_pcb](images/breeze_pcb.png)
+
 ## Note
-If you want to use our templates for schematic or pcb, please execute the **setup.bat** by double clic![Alt text](/path/to/img.jpg "Optional title"): 
+If you want to use our templates for schematic or pcb, please execute the **setup.bat** by double click.
