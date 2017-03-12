@@ -1,0 +1,33 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~153|Field=Description~String~Description~153|Field=Designator~String~Designator~153|Field=Footprint~String~Footprint~196|Field=FootprintDescription~String~FootprintDescription~311|Field=LibRef~String~LibRef~96|Field=Quantity~Integer~Quantity~20|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~breeze_electronics_design.PrjPcb|ReportField=ProjectFullPath~C:\Users\myyerrol\Desktop\breeze_electronics_design\altium\breeze_electronics_design.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [breeze_pcb.PcbDoc]|ReportField=TotalQuantity~124|ReportField=ReportTime~15:00:50|ReportField=ReportDate~3/12/2017|ReportField=ReportDateTime~3/12/2017 15:00:50|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~breeze_pcb.PcbDoc|ReportField=DataSourceFullPath~C:\Users\myyerrol\Desktop\breeze_electronics_design\altium\breeze_pcb.PcbDoc
+1|AN9520|2.4GHz Wireless Communication Antenna|A1|AN9520|AN9520|AN9520|1
+2|BAT|Battery|B1|HDR-1X2|HDR-1X2|BAT|1
+3|CAP-0603|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41|SMD-0603|SMD-0603|CAP-0603|41
+4|BAT54KFILM|Schottky Diode|D1, D2, D3, D4|SOD-523|SOD-523|BAT54KFILM|4
+5|LED-0603|LED|D5, D6, D7, D8, D9, D10, D11, D12|SMD-0603|SMD-0603|LED-0603|8
+6|IND-0402|Inductor|L1, L2, L3|SMD-0402|SMD-0402|IND-0402|3
+7|Comment||LOGO1|LOGO_ACC_GYR|Orientation of Axes of MPU6050||1
+8|Comment||LOGO2|LOGO_MAG|Orientation of Axes of HMC5883L||1
+9|Comment||LOGO3|LOGO_TEAM_OVERLAY|Logo for Team MicroDynamics on overlay layer||1
+10|Motor1|Motor Header|P1|HDRM-1X2|HDRM-1X2|Motor_A|1
+11|Motor2|Motor Header|P2|HDRM-1X2|HDRM-1X2|Motor_B|1
+12|Motor3|Motor Header|P3|HDRM-1X2|HDRM-1X2|Motor_B|1
+13|Motor4|Motor Header|P4|HDRM-1X2|HDRM-1X2|Motor_A|1
+14|USB_MICRO|Micro USB|P5|USB_MICRO|USB_MICRO|USB_MICRO|1
+15|HDR-1X2|Header 1X2|P6|HDR-1X2|HDR-1X2|HDR-1X2|1
+16|HDR-1X10|Header 1X10|P7, P8|HDR-1X10|HDR-1X10|HDR-1X10|2
+17|SI2302|N-Channel Enhancement Mode Field Effect Transistor|Q1, Q2, Q3, Q4|SOT-23|SOT23, 3-Leads, Body 2.9x1.3mm, Pitch 0.95mm, Lead Span 2.5mm, IPC Low Density|SI2302|4
+18|2N7002|N-Channel Enhancement Mode Field Effect Transistor|Q5, Q6|SOT-23|SOT23, 3-Leads, Body 2.9x1.3mm, Pitch 0.95mm, Lead Span 2.5mm, IPC Low Density|2N7002|2
+19|RES-0603|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34|SMD-0603|SMD-0603|RES-0603|34
+20|SKRELGE010|Switch|S1|SKRELGE010|SKRELGE010|SKRELGE010|1
+21|MSS-22D18G2|Double-Pole, Double-Throw Switch|S2|MSS-22D18G2|MSS-22D18G2|MSS-22D18G2|1
+22|MPU6050|6-axis Motion Tracking IC|U1|QFN-24|QFN, 24-Leads, Body 4.00x4.00mm, Pitch 0.50mm, Thermal Pad 2.80x2.80mm, IPC Medium Density|MPU6050|1
+23|HMC5883L|3-Axis Digital Compass IC|U2|LPCC-16|LCC, 16-Pins, Body 3.00x3.00mmx0.90mm, Pitch 0.50mm, IPC Medium Density|HMC5883L|1
+24|MS5611|High Resolution Altimeter IC|U3|MS5611|MS5611|MS5611|1
+25|nRF51822|Multiprotocol Bluetooth 4.0 low energy/2.4 GHz RF SoC|U4|QFN-48|QFN, 48-Leads, Body 6.00x6.00mm, Pitch 0.40mm, Thermal Pad 4.60x4.60mm, IPC Medium Density|nRF51822|1
+26|TPS79301DBVR|200-mA RF Low-Dropout Regulator|U5, U8|SOT-23-6|SOT23, 6-Leads, Body 2.9x1.6mm, Pitch 0.95mm, Lead Span 2.7mm, IPC Low Density|TPS79301DBVR|2
+27|NUF2221W1T2|USB Upstream Terminator  with ESD Protection|U6|SOT-363|SOT-363, 6-Leads, Body 2.00x2.10mm, Pitch 0.65mm, IPC Medium Density|NUF2221W1T2|1
+28|BQ24075RGTR|1.5-A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC|U7|VQFN-16|QFN, 16-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.75x1.75mm, IPC Medium Density|BQ24075RGTR|1
+29|MAX16054|On/Off Controller with Debounce and ±15kV ESD Protection|U9|SOT-23-6|SOT23, 6-Leads, Body 2.9x1.6mm, Pitch 0.95mm, Lead Span 2.7mm, IPC Low Density|MAX16054|1
+30|STM32F103T6U6|ARM Cortex-M3 MCU|U10|VFQFPN-36|QFN, 36-Leads, Body 6.13x6.13mm, Pitch 0.5mm, Thermal Pad 3x3mm, IPC Low Density|STM32F103T6U6|1
+31|CP2102|Highly-integrated USB-to-UART Bridge Controller|U11|QFN-28|QFN, 28-Leads, Body 5.00x5.00mm, Pitch 0.50mm, Thermal Pad 3.13x3.13mm, IPC Medium Density|CP2102|1
+32|XTAL-5032|Passive Crystal Oscillator|Y1, Y2|SMD-5032|SMD-5032|XTAL-5032|2
