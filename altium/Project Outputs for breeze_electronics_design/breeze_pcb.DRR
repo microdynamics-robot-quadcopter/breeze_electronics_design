@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: breeze_pcb.PcbDoc   2017/12/3  23:27:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : breeze_pcb.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             49        PTH        5.21inch (132.40mm)
+T2      14mil (0.356mm)                                           Round             134       PTH        19.07inch (484.39mm)
+T3      15mil (0.381mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      20mil (0.508mm)                                           Round             2         PTH        1.64inch (41.69mm)
+T5      24mil (0.6mm)                                             Round             8         PTH        6.27inch (159.36mm)
+T6      28mil (0.7mm)                                             Round             2         PTH        0.07inch (1.71mm)
+T7      35mil (0.9mm)                                             Round             24        PTH        7.03inch (178.59mm)
+T8      40mil (1.016mm)                                           Round             3         PTH        1.59inch (40.43mm)
+T9      79mil (2mm)                                               Round             4         PTH        9.14inch (232.17mm)
+T10     113mil (2.882mm)                                          Round             2         PTH        1.79inch (45.36mm)
+T11     283mil (7.2mm)                                            Round             4         PTH        11.02inch (279.97mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              233
+
+Total Processing Time (hh:mm:ss) : 00:00:00
